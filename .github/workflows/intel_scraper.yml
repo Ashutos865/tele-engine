@@ -26,7 +26,7 @@ jobs:
           pip install aiohttp feedparser pandas openpyxl
 
       - name: Run Rocket Scraper
-        run: python process_intel.py
+        run: python scraper_x_pro.py
 
       - name: Sync and Commit
         run: |
