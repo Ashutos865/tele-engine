@@ -1,0 +1,48 @@
+name: NarrativeOS X-Scraper
+
+on:
+  schedule:
+    - cron: '*/30 * * * *' # Every 30 minutes
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Dependencies
+        run: |
+          pip install aiohttp feedparser pandas openpyxl
+
+      - name: Run Rocket Scraper
+        run: python process_intel.py
+
+      - name: Sync and Commit
+        run: |
+          git config --global user.name "NarrativeOS-Bot"
+          git config --global user.email "bot@narrativeos.ai"
+          
+          # Pull latest to avoid conflict
+          git stash
+          git pull origin main --rebase
+          git stash pop || echo "No local changes to merge"
+          
+          git add raw_intel.json seen_x_links.json
+          
+          if git diff --staged --quiet; then
+            echo "No new intelligence data."
+          else
+            git commit -m "Automated X-Intel Update: $(date +'%Y-%m-%d %H:%M')"
+            git push origin main
+          fi
