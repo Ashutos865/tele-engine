@@ -7,6 +7,7 @@ import os
 import re
 import time
 import sys
+import random
 from datetime import datetime, timezone
 
 # --- WINDOWS ENCODING FIX ---
@@ -19,13 +20,25 @@ OUTPUT_FILE = "raw_intel.json"
 CACHE_FILE = "seen_x_links.json"
 
 MAX_STORAGE_LIMIT = 10000 
-MAX_CONCURRENT_REQUESTS = 50 
-TIMEOUT_SECONDS = 7 
+MAX_CONCURRENT_REQUESTS = 30 # Slightly lowered for stealth (prevents aggressive IP bans)
+TIMEOUT_SECONDS = 10         # Increased slightly to account for proxy/instance lag
 
-# 2026 High-Performance Nitter/XCancel Instances
+# 🔥 EXPANDED 2026 FREE INSTANCE POOL 🔥
+# A massive list of instances. The script will rotate through these automatically.
 INSTANCES = [
     "xcancel.com", "nitter.poast.org", "nitter.privacydev.net", 
-    "nitter.perennialte.ch", "nitter.moomoo.me"
+    "nitter.perennialte.ch", "nitter.moomoo.me", "nitter.lucabased.xyz",
+    "nitter.unixfox.eu", "nitter.esmailelbob.xyz", "nitter.no-logs.com",
+    "nitter.ktachibana.party", "nitter.woodland.cafe", "nitter.mint.lgbt",
+    "nitter.soopy.moe", "nitter.catsarch.com", "nitter.us.projectsegfau.lt"
+]
+
+# 🎭 STEALTH HEADERS (User-Agent Rotation)
+USER_AGENTS = [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3 Safari/605.1.15",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0",
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 ]
 
 # --- UTILITIES ---
@@ -54,40 +67,66 @@ def get_relative_time(ts_iso):
         return f"{int(hours/24)}d ago"
     except: return "Recent"
 
-# --- CORE ROCKET FETCH ---
+# --- CORE ROCKET FETCH (UPGRADED FOR DEPLOYMENT) ---
 async def fetch_rocket(session, handle, sem, stats, index, total, start_ts):
     async with sem:
         clean_h = str(handle).replace('@', '').strip()
         
         # Progress Log
-        if index % 100 == 0 or index == total:
+        if index % 50 == 0 or index == total:
             elapsed = time.time() - start_ts
             rate = index / elapsed if elapsed > 0 else 0
             print(f"🚀 [{index}/{total}] | Velocity: {rate:.1f} nodes/sec | Success: {stats['success']}")
 
-        # Rapid Instance Rotation
-        for inst in INSTANCES:
+        # SHUFFLE INSTANCES: Prevents predictable hammering of server #1
+        local_instances = INSTANCES.copy()
+        random.shuffle(local_instances)
+
+        for inst in local_instances:
             url = f"https://{inst}/{clean_h}/rss"
+            
+            # Generate random stealth headers
+            headers = {
+                "User-Agent": random.choice(USER_AGENTS),
+                "Accept": "application/rss+xml, application/xml, text/xml; q=0.9, */*; q=0.8",
+                "Accept-Language": "en-US,en;q=0.5",
+            }
+
             try:
-                async with session.get(url, timeout=TIMEOUT_SECONDS) as resp:
+                # Add a micro-delay (jitter) so deployed servers don't blast 50 requests in 0.01 seconds
+                await asyncio.sleep(random.uniform(0.1, 0.4))
+                
+                async with session.get(url, headers=headers, timeout=TIMEOUT_SECONDS) as resp:
                     if resp.status == 200:
-                        feed = feedparser.parse(await resp.text())
-                        if feed.entries:
-                            stats['success'] += 1
-                            return {"handle": clean_h, "entries": feed.entries}
-            except:
-                continue 
+                        text = await resp.text()
+                        
+                        # 🛡️ DEFENSE CHECK: Is it the Whitelist error or Rate Limit?
+                        text_lower = text.lower()
+                        if "whitelist" in text_lower or "rate limit" in text_lower or "error" in text_lower:
+                            continue # Ignore this instance, it's blocking us. Move to the next one.
+                            
+                        # Ensure it's actually an RSS feed before parsing
+                        if "<rss" in text or "<feed" in text:
+                            feed = feedparser.parse(text)
+                            if feed.entries:
+                                stats['success'] += 1
+                                return {"handle": clean_h, "entries": feed.entries}
+            except Exception:
+                continue # Timeout or connection error, just move to the next instance
+                
+        # If all instances failed for this handle
         return {"handle": clean_h, "entries": []}
 
 async def main():
     start_ts = time.time()
-    print(f"🔥 [Ignition] Processing X-Intelligence from {INPUT_FILE}...")
+    print(f"🔥 [Ignition] Deployed Stealth Scraper Active...")
+    print(f"🛡️ Loaded {len(INSTANCES)} dynamic fallback instances.")
 
     # 1. Load Handles
     try:
-        df = pd.read_excel(X_HANDLES_FILE if 'X_HANDLES_FILE' in locals() else INPUT_FILE)
+        df = pd.read_excel(INPUT_FILE)
         handles = df.iloc[:, 0].dropna().unique().tolist()
-        print(f"📡 Loaded {len(handles)} unique handles.")
+        print(f"📡 Target acquired: {len(handles)} unique handles.")
     except Exception as e:
         print(f"❌ Excel Error: {e}"); return
 
@@ -101,12 +140,15 @@ async def main():
 
     # 3. Connection Pool
     connector = aiohttp.TCPConnector(limit=MAX_CONCURRENT_REQUESTS, ttl_dns_cache=600)
-    async with aiohttp.ClientSession(connector=connector, headers={'User-Agent': 'Mozilla/5.0'}) as session:
+    async with aiohttp.ClientSession(connector=connector) as session:
+        # Create asynchronous tasks
         tasks = [fetch_rocket(session, h, sem, stats, i+1, len(handles), start_ts) for i, h in enumerate(handles)]
         results = await asyncio.gather(*tasks)
 
         # 4. Process Results with FIFO and Time Logic
         for res in results:
+            if not res["entries"]: continue
+            
             for entry in res["entries"][:3]: # Latest 3 tweets
                 link = entry.get("link")
                 if link and link not in seen_links:
