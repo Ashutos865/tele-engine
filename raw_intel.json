@@ -1,6 +1,738 @@
 [
     {
         "source": "X/@Osinttechnical",
+        "content": "Reports that locals and security forces are attempting to enter the area. Michael A. Horowitz (@michaelh992) Video purportedly show locals and security forces mobilizing to the site where the rescue is allegedly ongoing Video — http://nitter.perennialte.ch/michaelh992/status/2040574831310078397#m",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/Osinttechnical/status/2040575020410319330#m",
+        "timestamp": "2026-04-04T23:56:54.714866+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@Osint613",
+        "content": "Video circulating from southwest Iran shows locals and security forces mobilizing toward an area where a reported rescue operation is underway. Contributed by @AZ_Intel_. Video",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/Osint613/status/2040577373393785103#m",
+        "timestamp": "2026-04-04T23:56:54.715396+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@Osint613",
+        "content": "BREAKING: 🔴 Kuwait’s Ministry of Oil building was hit in an Iranian attack, Faytuks Network reports. Video",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/Osint613/status/2040575025879654576#m",
+        "timestamp": "2026-04-04T23:56:54.715428+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@Osint613",
+        "content": "CNN National Security Analyst Alex Plitsas: \"Lots of unconfirmed reports circulating of a potential ongoing rescue operation in Iran for the downed weapons system officer from the F-15 that was brought down yesterday. Situation is still fluid and nothing has been confirmed.\"",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/Osint613/status/2040573720327016663#m",
+        "timestamp": "2026-04-04T23:56:54.715453+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@KyivIndependent",
+        "content": "The latest attack comes as Ukrainian officials have acknowledged that foreign allies have asked Kyiv to pause drone attacks on Russian oil refineries, as the U.S.-Israeli war in Iran drives up fuel prices worldwide.",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/KyivIndependent/status/2040575661283135676#m",
+        "timestamp": "2026-04-04T23:56:54.715586+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@KyivIndependent",
+        "content": "⚡️Ukraine reportedly strikes Russian Lukoil refinery, defying calls to ease attacks amid soaring fuel prices. Ukrainian drones struck a Lukoil oil refinery in the Russian city of Kstovo overnight on April 5, Russian Telegram media channels reported. kyivindependent.com/ukrainia…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/KyivIndependent/status/2040575659529957614#m",
+        "timestamp": "2026-04-04T23:56:54.715602+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@MiddleEastEye",
+        "content": "Israeli forces blew up residential buildings in Lebanon’s Naqoura region, causing widespread destruction to what appears to be a civilian township. The attacks come as Israeli troops invaded parts of Lebanese territory, carrying out demolitions and strikes inside the sovereign nation. The escalation also included the destruction of surveillance cameras, including those used to monitor the safety of UN personnel near the headquarters of the United Nations Interim Force in Lebanon. The move to remove the cameras has drawn protest from the United Nations and raised concerns over the safety of peacekeepers. While Israel uses the pretext of targeting Hezbollah, the scale of destruction to homes and civilian infrastructure shows the growing impact on civilians across southern Lebanon. Critics say Israel is exploiting the conflict to expand its territory, advancing further into Lebanese land. Video",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/MiddleEastEye/status/2040572811090256277#m",
+        "timestamp": "2026-04-04T23:56:54.715638+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@MazMHussain",
+        "content": "Ask yourself why no air war has ever brought down a regime. Mohammad Ali Shabani (@mashabani) Israeli outlet owned by Trump donor Miriam Adelson says Netanyahu's plan is to destroy Iran's energy sector and transportation network to foment state collapse. The strategy has long been apparent but is full of holes and could badly backfire. israelhayom.com/2026/04/04/t… — http://nitter.perennialte.ch/mashabani/status/2040563514155102286#m",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/policytensor/status/2040575003427492274#m",
+        "timestamp": "2026-04-04T23:56:54.715685+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@MazMHussain",
+        "content": "Narjes Soleimani, daughter of the late Iranian General Qasem Soleimani, has denied that the two individuals arrested in the US are related to the family, in a letter published by the pro-reform Jamaran. She said \"none” of Soleimani’s family or relatives has ever lived in the US. BBC News (World) (@BBCWorld) US arrests relatives of deceased Iranian ​general Qasem ​Soleimani bbc.in/4ttADYD — http://nitter.perennialte.ch/BBCWorld/status/2040462813303341513#m",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/GhonchehAzad/status/2040483937995104673#m",
+        "timestamp": "2026-04-04T23:56:54.715713+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@MazMHussain",
+        "content": "\"antisemitic tropes, such as “genocide” and “occupation” The Jerusalem Post (@Jerusalem_Post) Opinion: It is time for Mamdani to stand in solidarity with Muslim leaders who eschew antisemitic tropes, such as “genocide” and “occupation,” and are committed to a new and broader regional alignment in the Middle East. jpost.com/opinion/article-89… — http://nitter.perennialte.ch/Jerusalem_Post/status/2040530807073251717#m",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/NoeNicholas/status/2040567985996210607#m",
+        "timestamp": "2026-04-04T23:56:54.715739+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@ZelenskyyUa",
+        "content": "Під час зустрічі з Президентом Туреччини Реджепом Таїпом Ердоганом у Стамбулі обговорили двосторонні відносини між нашими країнами, ситуацію у Європі та на Близькому Сході. Важливо, щоб спільні й скоординовані дії посилювали захист життя та дозволяли дати більше безпеки народам у кожній частині світу. Домовились про нові кроки в безпековому співробітництві. Це стосується передусім тих речей, якими ми можемо підтримати Туреччину: експертиза, технології, досвід. Принципова політична готовність працювати разом є, і наші команди найближчими днями фіналізують деталі. Обговорили практичні кроки для реалізації спільних проєктів у розбудові газової інфраструктури, а також можливості спільної розробки газових родовищ. Вдячний Президенту й народу Туреччини за послідовну підтримку нашої незалежності та територіальної цілісності. Цінуємо нашу тісну взаємодію протягом усіх цих років, яка дозволяє нам працювати над дійсно серйозними проєктами, які можуть посилити весь наш регіон.",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/ZelenskyyUa/status/2040459541523935698#m",
+        "timestamp": "2026-04-04T23:56:54.715822+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@mclaughlinmitch",
+        "content": "Can see why Duke changed their entire defense last Sunday to limit the amount of 3's UConn was getting.",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/McLaughlinMitch/status/2040573519671734303#m",
+        "timestamp": "2026-04-04T23:56:54.716296+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@TheEconomist",
+        "content": "The recipe for Nin Jiom Pei Pa Koa hasn’t changed since it was first concocted in the 1600s. Yet the sweet syrup is enjoying a renewed surge in popularity economist.com/business/2025/…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/TheEconomist/status/2040575176580936090#m",
+        "timestamp": "2026-04-04T23:56:54.716436+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@TheEconomist",
+        "content": "Both the White House and Congress seem to be growing tired of the MAHA agenda. It is becoming harder and harder to find public-health professionals that both Robert F. Kennedy junior and the Senate approve of economist.com/united-states/…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/TheEconomist/status/2040570143911158062#m",
+        "timestamp": "2026-04-04T23:56:54.716458+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@ForeignAffairs",
+        "content": "“Disarming Hezbollah is not just a military exercise; it is a political one,” writes @mahamyahya. “Only a sovereign and strong central state in Beirut can undo the damage that has been done to Lebanon’s cohesion.” foreignaffairs.com/lebanon/l…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/ForeignAffairs/status/2040571871117144082#m",
+        "timestamp": "2026-04-04T23:56:54.716480+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@ZhaoLijian",
+        "content": "In the alleyways of Seoul, a movement is about to unfold. Enter the \"WADESIDE\" below. premint.xyz/wadeside/ Video",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/Wade_Side/status/1730240792034173438#m",
+        "timestamp": "2026-04-04T23:56:54.716579+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@PressTV",
+        "content": "\"It is a violation of international law\" According to @RobertFantina, Trump's changing justifications for war against Iran—from claiming to prevent Iran from acquiring nuclear weapons to saying the goal is opening the Strait of Hormuz—are complete lies. Video",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/PressTV/status/2040577657323266267#m",
+        "timestamp": "2026-04-04T23:56:54.716599+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@PressTV",
+        "content": "Pakistan MPs hail Iran’s resistance, signal shift toward new global order Press TV's Nasir Kazmi reports from Islamabad Follow Press TV on Telegram: t.me/PressTV Video",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/PressTV/status/2040575700810260628#m",
+        "timestamp": "2026-04-04T23:56:54.716619+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@PressTV",
+        "content": "US intelligence admits Iran repairs ‘missile bunkers’ within hours of attacks presstv.ir/Detail/2026/04/04…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/PressTV/status/2040573882646557062#m",
+        "timestamp": "2026-04-04T23:56:54.716637+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@RT_com",
+        "content": "Kuwait News report",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/RT_com/status/2040574210272100709#m",
+        "timestamp": "2026-04-04T23:56:54.716653+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@RT_com",
+        "content": "Iranian drone bombs Kuwait Petroleum Corp Video",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/RT_com/status/2040574049336611215#m",
+        "timestamp": "2026-04-04T23:56:54.716665+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@JakeTapper",
+        "content": "I’m not asking you, I’m telling you. Take a moment and listen to this 81 second response from Victor Glover after being asked if he had any thoughts leading up to Easter. I don’t quite think it can be overstated how perfect this crew is for the job. Video",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/spacebrandonb/status/2040538145100366224#m",
+        "timestamp": "2026-04-04T23:56:54.716767+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@NBCNews",
+        "content": "The Artemis II crew describes life inside the Orion space capsule — sleeping, missing family and emotions as they see the moon's far side. nbcnews.com/science/space/ar…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/NBCNews/status/2040574770425594096#m",
+        "timestamp": "2026-04-04T23:56:54.716798+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@CBSNews",
+        "content": "Ousted Army Chief of Staff Gen. Randy George says U.S. soldiers deserve \"courageous leaders of character\" in outgoing email cbsn.ws/4slCNIN",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/CBSNews/status/2040572626246996023#m",
+        "timestamp": "2026-04-04T23:56:54.716818+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@BBCWorld",
+        "content": "Man charged over fatal shooting of baby in pram in New York bbc.in/4dNNeBt",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/BBCWorld/status/2040572681762873614#m",
+        "timestamp": "2026-04-04T23:56:54.716839+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@thetimes",
+        "content": "Climate change is threatening cotton production. Are potatoes the solution? thetimes.com/uk/environment/…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/thetimes/status/2040575060797161571#m",
+        "timestamp": "2026-04-04T23:56:54.716862+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@thetimes",
+        "content": "Idris and Sabrina Elba test how well they know each other thetimes.com/video/lifestyle…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/thetimes/status/2040571451045028083#m",
+        "timestamp": "2026-04-04T23:56:54.716877+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@Reuters",
+        "content": "William Sawalich gets breakthrough victory at Rockingham reut.rs/4bUiOMw reut.rs/4bUiOMw",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/Reuters/status/2040577733764260318#m",
+        "timestamp": "2026-04-04T23:56:54.716902+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@Reuters",
+        "content": "Cambridge win men's boat race, Oxford end wait for women's victory reut.rs/4vaNW1x reut.rs/4vaNW1x",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/Reuters/status/2040576441264295968#m",
+        "timestamp": "2026-04-04T23:56:54.716914+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@Reuters",
+        "content": "Chelsea seek to turn corner after 7-0 FA Cup thrashing of Port Vale reut.rs/48e4trK reut.rs/48e4trK",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/Reuters/status/2040575175922499646#m",
+        "timestamp": "2026-04-04T23:56:54.716927+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@AFP",
+        "content": "Dakar and Rabat have longstanding ties but relations have been strained since the Africa Cup of Nations final, which Senegal won in mid-January before being stripped of the title, which was transferred to Morocco. u.afp.com/SbbC",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/AFP/status/2040572642793562472#m",
+        "timestamp": "2026-04-04T23:56:54.716945+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@AJEnglish",
+        "content": "BREAKING: Kuwait says Iranian drone attack caused 'significant damage' on government office complex 🔴 LIVE updates: aje.news/9i4iv5?update=44626…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/AJENews/status/2040575232298135671#m",
+        "timestamp": "2026-04-04T23:56:54.716965+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@AJEnglish",
+        "content": "Israel has bombed Iran’s Mahshahr petrochemical zone in the oil‑rich Khuzestan province, killing at least five people and injuring more than 170, Iranian officials say. Video",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/AJENews/status/2040576995277345156#m",
+        "timestamp": "2026-04-04T23:56:54.716985+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@AJEnglish",
+        "content": "Thick smoke rises over the Mahshahr Petrochemical Zone in Khuzestan after reported US‑Israeli strikes hit multiple facilities, killing five people, Iranian officials say. 🔴 LIVE updates: aje.news/qvitw5",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/AJEnglish/status/2040575544559874295#m",
+        "timestamp": "2026-04-04T23:56:54.717001+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@ANI",
+        "content": "#WATCH | Delhi: Advocating for India to increase its ethanol blending mandate beyond the current 20% (E20) target, CK Jain, President of the Grains Ethanol Manufacturers Association (GEMA), says, \"...for the last one year had been that E20 was a checkpoint. The government wanted to see whether we can do something. E20 was the first checkpoint to see whether the investor will come or not, and whether the feedstock is available or not. Now we are sitting in a situation where feedstock, like surplus grain and surplus sugarcane, is immense. Then come to the converters like ethanol units. They are already at the level of 2,000 crore litres, whereas lifting is hardly 1,300 crore litres. there is a 100% possibility that it should be increased. 20% should not be the last point to do it. It should be a checkpoint to start further. So that is my opinion, and we have been advocating this thing...\" (04.04) Video",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/ANI/status/2040572624300884377#m",
+        "timestamp": "2026-04-04T23:56:54.717053+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@ndtv",
+        "content": "Amazon Software Engineer From India Details Salary And Expenses In Dublin: 'I Save 30-40%' ndtv.com/world-news/iran-isr…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/ndtv/status/2040572626045907113#m",
+        "timestamp": "2026-04-04T23:56:54.717090+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@TimesNow",
+        "content": "Stage Set For 2026 Poll Clash Biggest Test For Modi &amp; NDA Bengal, Kerala &amp; Tamil Nadu Strongholds Of I.N.D.I.A Bloc BJP Readies 'Project Saffron' Can NDA Breach I.N.D.I.A Forts? Prof Manojit Mandal, S Balan, &amp; others join @Swatij14 on THE NATIONAL DEBATE at 3 PM Video",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/TimesNow/status/2040576902482837836#m",
+        "timestamp": "2026-04-04T23:56:54.717131+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@TimesNow",
+        "content": "Election Yatra reaches Thrissur — Kerala’s cultural capital! The battle for the people’s mandate begins here Who will emerge victorious — BJP, LDF, or UDF? Join @Prathibhatweets at 8:30 PM for exclusive interviews, and on-the-ground insights from the heart of Kerala politics! Video",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/TimesNow/status/2040576399119921556#m",
+        "timestamp": "2026-04-04T23:56:54.717151+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@TimesofIsrael",
+        "content": "Cops violently disperse protesters at Tel Aviv anti-war rally, after court raised attendance cap timesofisrael.com/cops-viole…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/TimesofIsrael/status/2040574656831250895#m",
+        "timestamp": "2026-04-04T23:56:54.717179+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@BrennanCenter",
+        "content": "A new Brennan Center report takes a close look at prison systems across the country that are trying to change the status quo. Here’s what we found: Video",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/BrennanCenter/status/2040575152564371577#m",
+        "timestamp": "2026-04-04T23:56:54.717234+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@ABSCBNNews",
+        "content": "GOODNESS GRACIOUS ANG GANDA 😍❤️🔥 \"Pambansang Krung Krung\" Sandara Park is enjoying summer vibes in Lipa, Batangas, while sipping buko juice. (📸: Dara/Instagram)",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/ABSCBNNews/status/2040577657835004310#m",
+        "timestamp": "2026-04-04T23:56:54.717299+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@ABSCBNNews",
+        "content": "Feng shui predictions ni Master Hanz Cua para sa Abril 5, 2026 abs-cbn.com/lifestyle/2026/4…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/ABSCBNNews/status/2040575140589629688#m",
+        "timestamp": "2026-04-04T23:56:54.717320+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@ABSCBNNews",
+        "content": "Catholics join the traditional “Salubong” on Easter Sunday at the International Shrine of Our Lady of Peace and Good Voyage (Antipolo Cathedral), marking the meeting of the Blessed Virgin Mary and Jesus Christ after his resurrection. | via Daniel Jacob, ABS-CBN News Video",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/ABSCBNNews/status/2040571366194192750#m",
+        "timestamp": "2026-04-04T23:56:54.717334+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@EFEnoticias",
+        "content": "El embajador de Irán ante la ONU, Amir Iravani, pide al organismo prestar atención a las consecuencias humanitarias y a la exposición a la radiación derivadas de los ataques contra instalaciones nucleares iraníes. efe.com/mundo/iran-advierte-…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/EFEnoticias/status/2040574469924675944#m",
+        "timestamp": "2026-04-04T23:56:54.717360+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@NigeriaGov",
+        "content": "President Bola Tinubu delivering his remarks at the commissioning of the Gateway International Cargo Airport in Ogun State on Saturday, April 4, 2026.",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/NGRPresident/status/2040571611795907036#m",
+        "timestamp": "2026-04-04T23:56:54.717474+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@NigeriaGov",
+        "content": "President Bola Tinubu and the Comptroller-General of Customs, Bashir Adewale Adeniyi, at the commissioning of the Nigerian Customs Federal Operations Unit at Iperu, Ogun State, on Saturday, April 4, 2026. @CustomsNG",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/NGRPresident/status/2040571608838914068#m",
+        "timestamp": "2026-04-04T23:56:54.717488+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@NigeriaGov",
+        "content": "President Bola Tinubu and former President Olusegun Obasanjo watch as goods are being loaded onto the cargo plane at the Gateway International Cargo Airport, Ogun State, on Saturday, April 4, 2026.",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/NGRPresident/status/2040571605789577298#m",
+        "timestamp": "2026-04-04T23:56:54.717504+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@Infobae",
+        "content": "Ca7riel y Paco Amoroso causaron furor en Japón y revelaron a qué comida se hicieron adictos | Por Lucas Terrazas infobae.com/teleshow/2026/04…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/infobae/status/2040578248241824237#m",
+        "timestamp": "2026-04-04T23:56:54.717591+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@Infobae",
+        "content": "El día en que Steven Spielberg se emocionó hasta las lágrimas con Abraham Lincoln: “Tuve que abandonar” | Por Jeremías Baldantoni infobae.com/entretenimiento/…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/infobae/status/2040577181512773994#m",
+        "timestamp": "2026-04-04T23:56:54.717609+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@Infobae",
+        "content": "Con Messi de titular, Inter Miami recibe a Austin FC en el estreno de su nuevo estadio infob.ae/4maXQMP",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/infobae/status/2040575327626227764#m",
+        "timestamp": "2026-04-04T23:56:54.717627+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@LaTercera",
+        "content": "Hinchas de Boca Juniors agotan las 2.000 entradas para visitar a la UC en el Claro Arena latercera.com/el-deportivo/n…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/latercera/status/2040572625546592657#m",
+        "timestamp": "2026-04-04T23:56:54.717644+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@elonmusk",
+        "content": "Elon’s data centers are absolute units",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/PaulYacoubian/status/2040491442754203758#m",
+        "timestamp": "2026-04-04T23:56:54.717710+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@amazon",
+        "content": "x.com/i/article/203897060829…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/amazonnews/status/2038971501018243364#m",
+        "timestamp": "2026-04-04T23:56:54.717800+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@snopes",
+        "content": "This video shared on social media is real, but it doesn't show an Air Force pilot being taken into custody in Iran, as posts claim. Here's the real story: snopes.com/fact-check/video-…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/snopes/status/2040572647428272568#m",
+        "timestamp": "2026-04-04T23:56:54.717910+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@CDRSalamander",
+        "content": "Today is the 77th anniversary of NATO’s founding, with signature of the Washington Treaty by the 12 original founding nations. As we look ahead to the visit to DC next week by @SecGenNATO, it might be helpful to underscore one of the most important but least glamorous contributions made by NATO to our militaries & our industrial bases: NATO Standards. 1/6",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/M_S_Billingslea/status/2040544070922068072#m",
+        "timestamp": "2026-04-04T23:56:54.717992+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@NadeemMalik",
+        "content": "ٹرمپ کا خطاب مایوس کُن تھا، امریکہ ایران کو صرف کمزور کرنا چاہتا ہے ان کا کوئی ہدف مکمل نہیں ہوا، ایران امریکہ جنگ کے بعد دنیا اور خطہ تبدیل ہوجائے گا، اعزاز احمد چوہدری سابق سیکرٹری خارجہ #Pakistan #SamaaTv #NadeemMalikLive Video",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/nadeemmalik/status/2039750491207532795#m",
+        "timestamp": "2026-04-04T23:56:54.718166+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@ToloNews",
+        "content": "ویډیو: د کابل ښار په نهمه ناحیه کې د کابل سیند اوبه پر استوګنیزو کورونو ور اوښتي او د خلکو ورځنی ژوند یې له ستونزو سره مخ کړی دی. #طلوع‌نیوز Video",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/TOLOnews/status/2040576437430964658#m",
+        "timestamp": "2026-04-04T23:56:54.718678+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@ToloNews",
+        "content": "U.S. Secretary of State Marco Rubio said that Hamideh Soleimani Afshar, the niece of former Iranian commander Qassem Soleimani, and her daughter have been detained and will be removed from the United States. “Until recently, Hamideh Soleimani Afshar and her daughter were green card holders living lavishly in the United States,” Rubio said. He added that Afshar supported Iranian attacks on American targets and referred to the United States as the “Great Satan.” Rubio said he had terminated their legal status, and they are now in the custody of U.S. Immigration and Customs Enforcement (ICE), pending removal. #TOLOnews_English",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/TOLONewsEnglish/status/2040527459188375744#m",
+        "timestamp": "2026-04-04T23:56:54.718697+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@BBCPashto",
+        "content": "د ایران د وسله والو ځواکونو د همغږۍ د تر ټولو لوړې عملياتي قوماندې یوه ویاند امریکا او اسرائیلو ته خبرداری ورکړی چې که تاوتریخوالی زيات شي، ټوله سيمه به د هغوی لپاره په \"دوزخ بدله\" شي. bbc.in/3Oi5gBg",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/bbcpashto/status/2040575764907602246#m",
+        "timestamp": "2026-04-04T23:56:54.718733+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@EU_Korea",
+        "content": "Adicionei um vídeo a uma playlist @YouTube youtu.be/MgQtGe6BWpQ?aPRIMEI… VíDEO - CADA COISA",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/eu_korea/status/738634302393622528#m",
+        "timestamp": "2026-04-04T23:56:54.719280+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@Ukraine_Daily",
+        "content": "Obstacles do not block the path, they are the path.",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/Ukraine_Daily/status/1282405769682587649#m",
+        "timestamp": "2026-04-04T23:56:54.719671+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@Osinttechnical",
         "content": "General area in southwest Iran. OSINTtechnical (@Osinttechnical) Iran’s IRGC has closed off a portion of southwest Iran as it hunts for the American WSO who ejected from their stricken F-15E yesterday. US rescue forces and Iranian troops are now in a race to see who can find the American aircrew first in Kohgiluyeh and Boyer-Ahmad Province. — http://nitter.perennialte.ch/Osinttechnical/status/2040194649977950401#m",
         "metrics": {
             "likes": "0",
@@ -119265,738 +119997,6 @@
         },
         "link": "http://nitter.perennialte.ch/DunyaNews/status/2039769493078192615#m",
         "timestamp": "2026-04-02T18:43:22.558779+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@SamaaTV",
-        "content": "وفاقی حکومت نے پیٹرولیم مصنوعات کی قیمتوں کا اعلان کردیا۔ #SamaaTV #Pakistan #petrol #PetrolPrices #dieselprices Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/SAMAATV/status/2039772447432437943#m",
-        "timestamp": "2026-04-02T18:43:22.558795+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@SamaaTV",
-        "content": "وفاقی حکومت نے پیٹرولیم مصنوعات کی قیمتوں کا اعلان کردیا۔ حکومت کی جانب سے پیٹرول کی نئی قیمت 458 روپے 40 پیسے فی لیٹر کردی گئی۔ #SamaaTV #Pakistan #petrol #PetrolPrices #dieselprices",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/SAMAATV/status/2039769612385214706#m",
-        "timestamp": "2026-04-02T18:43:22.558814+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@SamaaTV",
-        "content": "Latest Headlines - Samaa TV – 02 April, 2026 Follow Samaa TV’s WhatsApp Channel for breaking news from Pakistan and beyond – straight to your pocket! 🔗Join here: whatsapp.com/channel/0029Va8… #SamaaTV #Headlines #LatestNews #Pakistan Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/SAMAATV/status/2039762885585371439#m",
-        "timestamp": "2026-04-02T18:43:22.558835+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@BOLNetwork",
-        "content": "پی ایس ایل گیارہ کے 10 ویں میچ میں کراچی کنگز نے راولپنڈیز کو 5 وکٹوں سے شکست دے دی۔ مزید پڑھیں: bolnews.com/urdu/sports/8367… #BOLNews #BreakingNews #PSL11",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/BOLNETWORK/status/2039765802866585766#m",
-        "timestamp": "2026-04-02T18:43:22.558861+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@BOLNetwork",
-        "content": "50برس بعد تاریخی پیش رفت، سائنس کی بڑی کامیابی ناسا کا راکٹ کامیابی سے چاند کی طرف روانہ #BOLNews #NewsPunch Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/BOLNETWORK/status/2039764722245861560#m",
-        "timestamp": "2026-04-02T18:43:22.558879+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@BOLNetwork",
-        "content": "بانی پی ٹی آئی رہائی فورس تنازعات کی زد میں فورس کی تشکیل پر پارٹی قیادت میں اختلافات شفیع اللہ جان کا بڑا اعلان #BOLNews #NewsPunch Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/BOLNETWORK/status/2039764616054780205#m",
-        "timestamp": "2026-04-02T18:43:22.558896+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@KashmirFreedom",
-        "content": "پارلیمنٹ کے مشترکہ اجلاس سے وزیراعظم عمران خان کا خطاب قوم کے جذبات کی ترجمانی کر رہا تھا یا نہیں؟#CapitalTalk",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/HamidMirPAK/status/1158748129929367571#m",
-        "timestamp": "2026-04-02T18:43:22.558941+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@PMOBangladesh",
-        "content": "BNP juddaoporade der help korse. But Bangladeshe Ar becher hobey- PM of Bd",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/pmobangladesh/status/175388504858177536#m",
-        "timestamp": "2026-04-02T18:43:22.558956+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@BangladeshAF",
-        "content": "ব্যাংক লোন পাওয়ার উপায় - Banglatech24.com banglatech24.com/0822633/%E0…",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/BangladeshAf/status/1423722659678806019#m",
-        "timestamp": "2026-04-02T18:43:22.558989+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@ProthomAlo",
-        "content": "বৈশ্বিক জ্বালানিসংকটের প্রেক্ষাপটে অফিসের সময়সূচিতে পরিবর্তন আনার সিদ্ধান্ত নিয়েছে সরকার। prothomalo.com/bangladesh/8q…",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/ProthomAlo/status/2039770664114983157#m",
-        "timestamp": "2026-04-02T18:43:22.559030+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@ProthomAlo",
-        "content": "কুমিল্লার চান্দিনায় দুই সাংবাদিককে হাতকড়া পরানোর ঘটনায় সহকারী কমিশনার (ভূমি) ফয়সাল আল নুরকে প্রত্যাহার করা হয়েছে। prothomalo.com/bangladesh/di…",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/ProthomAlo/status/2039765575233073639#m",
-        "timestamp": "2026-04-02T18:43:22.559045+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@ProthomAlo",
-        "content": "জাতীয় দলের ক্যাম্প ফিটনেস ক্যাম্প শেষ, ব্যাট–বলের প্রস্তুতির অপেক্ষা prothomalo.com/sports/cricke…",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/ProthomAlo/status/2039763224099176573#m",
-        "timestamp": "2026-04-02T18:43:22.559060+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@SomoyTV",
-        "content": "পবিত্র নগরী মক্কায় একটি নতুন বিমানবন্দর নির্মাণের পরিকল্পনা আনুষ্ঠানিকভাবে অনুমোদন দিয়েছে সৌদি আরব। হজ ও ওমরাহ পালন করতে আসা লাখো মানুষের যাতায়াত সহজ করতে এবং পরিবহন অবকাঠামো উন্নয়নে এটি গুরুত্বপূর্ণ পদক্ষেপ হিসেবে দেখা হচ্ছে... বিস্তারিত : somoynews.tv/news/2026-04-02… #SomoyTV #SaudiNews #MakkahAirport",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/somoytv/status/2039767790962565570#m",
-        "timestamp": "2026-04-02T18:43:22.559081+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@SomoyTV",
-        "content": "রাজশাহী বিভাগীয় কমিশনার ড. আ.ন.ম. বজলুর রশীদ বলেছেন... বিস্তারিত : somoynews.tv/news/2026-04-02… #SomoyTV #HealthUpdate #MeaslesOutbreak",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/somoytv/status/2039762081973670006#m",
-        "timestamp": "2026-04-02T18:43:22.559101+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@MoEFCC",
-        "content": "Replied to the starred questions asked by Hon'ble members during #QuestionHour in #RajyaSabha regarding Coverage of National Mission for Green India. Under the visionary leadership of Hon’ble PM Shri @narendramodi Ji, these gains are attributable in the field of afforestation under various schemes, including Green India Mission (GIM). #BudgetSession2026 @byadavbjp @clgarasiya @BrijLal_IPS Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/KVSinghMPGonda/status/2039642657283363134#m",
-        "timestamp": "2026-04-02T18:43:22.559157+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@ShivAroor",
-        "content": "The U.S. bombing of Iran’s B1 Bridge in Karaj, reportedly the tallest in West Asia, is possibly a war crime. A direct and admitted attack on civilian infrastructure. Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/ShivAroor/status/2039772560234320002#m",
-        "timestamp": "2026-04-02T18:43:22.559278+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@ShivAroor",
-        "content": "Where @VishnuNDTV &amp; I break down this totally insane video from the warzone of an F-15 chasing a Shahed-136 drone over northern Iraq. Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/ShivAroor/status/2039752246163132501#m",
-        "timestamp": "2026-04-02T18:43:22.559295+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@NepalNews",
-        "content": "Editorial by @TheLancet on the crisis in Nepal and India's blockade. thelancet.com/pdfs/journals/… #IndiaBlockadesNepal",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/nepalnews/status/672791083257085952#m",
-        "timestamp": "2026-04-02T18:43:22.559466+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@KantiPurTV",
-        "content": "Kantipurtv2012@m",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/Kantipurtv/status/46759466959519745#m",
-        "timestamp": "2026-04-02T18:43:22.559492+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@ToloNews",
-        "content": "بازار - افغانستان سره د بېړنیو مرستو همغږي youtu.be/eSWTe7kS66o د خپرونې کوربنې بېنظیر محمدي په دې اړه د اقتصاد وزارت له ویاند عبدالرحمن حبیب سره خبرې کړې دي. #طلوع‌نیوز",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/TOLOnews/status/2039772907807879523#m",
-        "timestamp": "2026-04-02T18:43:22.559543+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@ToloNews",
-        "content": "سرخط خبر ساعت ده - ۱۳ حمل ۱۴۰۵ #طلوع‌نیوز Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/TOLOnews/status/2039769315940164065#m",
-        "timestamp": "2026-04-02T18:43:22.559559+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@ToloNews",
-        "content": "ویډیو: د بغلان او سمنګان ولایتونو ځایي مسوولین وایي، تېره شپه د سختو سېلابونو د راوتلو له امله څلور تنه مړه او نږدې ۳۰۰ استوګنیز کورونه ویجاړ شوي دي. #طلوع‌نیوز Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/TOLOnews/status/2039766132232503430#m",
-        "timestamp": "2026-04-02T18:43:22.559574+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@VOADari",
-        "content": "برنامۀ خبری دری پنجشنبه دوم ماه اپریل ۲۰۲۶ رادیو صدای امریکا این برنامه ساعت ۹ شب به وقت افغانستان و ۱۲:۳۰ بعد از ظهر به وقت واشنگتن دی‌سی نشر می‌شود. Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/VOADari/status/2039775158039118121#m",
-        "timestamp": "2026-04-02T18:43:22.559606+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@VOADari",
-        "content": "پس از آنکه ريیس‌جمهور دونالد ترمپ در سخنرانی شب چهارشنبه اش گفت که ایالات متحده در هفته‌های آینده به \"ضربه زدن بسیار شدید\" به ایران ادامه خواهد داد قیمت‌های بین‌المللی نفت روز پنجشنبه به شدت افزایش یافت. darivoa.com/a/oil-prices-sur…",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/VOADari/status/2039770852946849835#m",
-        "timestamp": "2026-04-02T18:43:22.559622+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@VOADari",
-        "content": "اعضای جمهوریخواه کانگرس ایالات متحده، سخنرانی شب گذشته رییس جمهور ترمپ در مورد جنگ با ایران را مورد ستایش قرار دادند اما اعضای دیموکرات کانگرس گفته اند که در این سخنرانی هیچ مسیر روشن برای پایان دادن این جنگ ارایه نشد.darivoa.com/a/reaction-donal…",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/VOADari/status/2039765834835325100#m",
-        "timestamp": "2026-04-02T18:43:22.559640+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@BBCBurmese",
-        "content": "အင်ဒိုနီးရှားမှာ ပြင်းအား ၇ ဒသမ ၄ မဂ္ဂနီကျုရှိတဲ့အင်အားပြင်းငလျင်လှုပ် bbc.in/4dXw83U",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/bbcburmese/status/2039770506262438199#m",
-        "timestamp": "2026-04-02T18:43:22.559679+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@ADMaldives",
-        "content": "book bandos and thulhagiri at an unbeatable price this summer, for more info contact by reservations@admaldives.com",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/Admaldives/status/4092049950#m",
-        "timestamp": "2026-04-02T18:43:22.559712+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@RaajjeMV",
-        "content": "ޑޮލަރު ލިކުއިޑިޓީ ވަނީ ހަރުދަނާ މިންވަރެއްގައި ހިފެހެއްޓިފައި: ބީއެމްއެލް raajje.mv/180270",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/raajjemv/status/2039773163631091730#m",
-        "timestamp": "2026-04-02T18:43:22.559740+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@PSMnewsmv",
-        "content": "ވަޒީރު އަމީން ވިދާޅުވީ ޓެކްސީ ޑްރައިވަރުންނާއި އަދި ޓެކްސީގެ ޚިދުމަތް ފޯރުކޮށްދެއްވާ ފަރާތްތަކާއި ޓެކްސީ ސެންޓަރުތަކަކީ ވަރަށް މުހިންމު ޚިދުމަތެއް ފޯރުކޮށްދޭ ފަރާތްތަކެއްކަމަށް. psmnews.mv/177586",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/psmnewsmv/status/2039774959342362785#m",
-        "timestamp": "2026-04-02T18:43:22.559757+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@PSMnewsmv",
-        "content": "އެންމެ ގިނައިން ކަރުދާސް ޗާޕުކޮށްފައިވަނީ މާލެ ސިޓީއަށް. psmnews.mv/177583",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/psmnewsmv/status/2039767495876174313#m",
-        "timestamp": "2026-04-02T18:43:22.559771+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@PSMnewsmv",
-        "content": "މާލޭ ޓެކްސީ ލައިނަކީ، މާލޭ ސަރަޙައްދަށް ކުރިމަތިވެފައިވާ ޓެކްސީގެ ދަތިކަމަށް ވަށާޖެހޭ ޙައްލެއް ހޯއްދަވައިދެއްވުމުގެ މަޤުޞަދުގައި، ރައީސުލްޖުމްހޫރިއްޔާގެ އިސްނެންގެވުމުގެ މަތީން، ފަރުމާކުރެއްވި މަސައްކަތެއް. psmnews.mv/177578",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/psmnewsmv/status/2039767157748199629#m",
-        "timestamp": "2026-04-02T18:43:22.559784+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@Aerospace_Pro",
-        "content": "lnkd.in/eDpwiAE",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/aerospace_pro/status/1283839811976134657#m",
-        "timestamp": "2026-04-02T18:43:22.559826+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@China_Caribbean",
-        "content": "As the saying goes, \"The year's plan starts in spring,\" making this the perfect time to set new goals.🌿🌾 #SpringPlowing #SpringScenery #BountifulShandong Discover Shandong (@faxianshandong) After the Spring Equinox, farmers across east China's Shandong Province seize the farming season to carry out spring plowing.🌱 (Source: Xinhua) — http://nitter.perennialte.ch/faxianshandong/status/2036987759504875937#m",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/china_caribbean/status/2037460681541488957#m",
-        "timestamp": "2026-04-02T18:43:22.559860+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@Aviation_Intel",
-        "content": "RC-135 Rivet Joint Surveillance Jet Caught ‘In The Nude’ In Texas It's not common to see America's workhorse electronic intelligence collection jet stripped of its gray-and-white paint scheme. twz.com/air/rc-135-rivet-joi…",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/Aviation_Intel/status/2039773172476920143#m",
-        "timestamp": "2026-04-02T18:43:22.559926+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@MidEast_Update",
-        "content": "Saudi Arabia - A state of confusion and panic in Rafha, Saudi Arabia army is now in highest alert !!!",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/mideast_update/status/560222931838836738#m",
-        "timestamp": "2026-04-02T18:43:22.559974+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@Naval_Official",
-        "content": "Someone random who likes and RTs this tweet will get $100 in bitcoin to celebrate Valentine’s Day 💜",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/trylolli/status/1361103304164601861#m",
-        "timestamp": "2026-04-02T18:43:22.560004+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@Russia_Japan",
-        "content": "え？9回裏に5対3って2点差まで詰め寄られてるところまではフォローしてたんだけど。 え？なに？負けたの？ドラゴンズ？開幕戦？",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/russia_japan/status/2037525556854653427#m",
-        "timestamp": "2026-04-02T18:43:22.560044+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@Cyber_Watch",
-        "content": "China Issues Draft Rules on Interactive AI Services jdsupra.com/legalnews/china-…",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/Cyber_Watch/status/2039765860806795366#m",
-        "timestamp": "2026-04-02T18:43:22.560090+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@Arab_Vietnam",
-        "content": "#تاسي - مشاركة أفكار فقط ~ مو توصية بيع أو شراء - هل ينجح السيناريو ؟ الله اعلم - هل يفشل ؟ نعم وارد جداً والغيبيات بيد الله سبحانه - ايش دورك كمتداول ؟ تراقب المناطق اللي تهمك وتبحث عن دخول في أسهم قويه ومتماسكه في السوق مع مراعاة المخاطر وإدارة المحفظة Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/af198734/status/1897081564036784185#m",
-        "timestamp": "2026-04-02T18:43:22.560211+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@Atomic_Official",
-        "content": "Insane Alexander Arnold Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/Atomic_official/status/1784864864780869751#m",
-        "timestamp": "2026-04-02T18:43:22.560483+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@Military_Daily",
-        "content": "@Military_Daily Thanks for following #ELCHS | Connecting Students to Their Future | Success is the Only Option! #LeeTweets",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/EastLeeCountyHS/status/381426047993917440#m",
-        "timestamp": "2026-04-02T18:43:22.560500+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@OSINT_Agency",
-        "content": "👮‍♂️ Démantèlement ce matin des infrastructures du groupe de hackers russophones LockBit 3, \"le plus dangereux au monde\" (Europol), lors de l’opération Cronos. Félicitations aux cybergendarmes de l'@CyberGEND, du FBI, d'Allemagne, ou encore du Royaume-Uni pour ce \"coup de maître\" !",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/CyberGEND/status/1760042011133190481#m",
-        "timestamp": "2026-04-02T18:43:22.560547+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@Sky_Network",
-        "content": "How to get notifications from your phone on your Windows 10 PC bit.ly/2r9BOlb",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/onmsft/status/873209483392167940#m",
-        "timestamp": "2026-04-02T18:43:22.560602+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@Pak_Today",
-        "content": "follow @ptv_sports93: send 40404",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/pak_today/status/317140197248745472#m",
-        "timestamp": "2026-04-02T18:43:22.560676+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@Energy_Nordic",
-        "content": "More households are turning to solar power “autoconsumo”. It is a very convenient solution for long-term electricity self-sufficiency. It is also good for the planet, generating 100% clean energy. In this blog you can clear up any doubts you may have... energynordic.com/generate-su…",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/energy_nordic/status/1610974924985753603#m",
-        "timestamp": "2026-04-02T18:43:22.560693+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@Europe_France",
-        "content": "Mais certains vous diront que l'homophobie, c'est quand même surtout les cathos et l'esstraime-drouâte. Jimmy Bourlieux (@BourlieuxJimmy) \"Tous les gays, il faudrait les rassembler au Stade de France et les faire brûler (...) L’homosexualité est interdite dans le Coran !\" Plusieurs élèves applaudissent... La réaction du Proviseur ? #PasDeVague ! nitter.perennialte.ch/Mehdi_Aifa_AJR/status/… Video — http://nitter.perennialte.ch/BourlieuxJimmy/status/1337736188111839237#m",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/AurelienMarq/status/1337853285861105664#m",
-        "timestamp": "2026-04-02T18:43:22.560753+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@Gulf_News",
-        "content": "Misinformation spreads rapidly, but the truth matters most! For accurate information and verified updates, follow @gulf_news and @DXBMediaOffice Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/gulf_news/status/2039769605821104162#m",
-        "timestamp": "2026-04-02T18:43:22.560981+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@Gulf_News",
-        "content": "Why autism in women is often missed: how masking, misdiagnosis and social expectations delay diagnosis and impact mental health and wellbeing. mrf.lu/6fwD",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/gulf_news/status/2039765270139420802#m",
-        "timestamp": "2026-04-02T18:43:22.560999+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@Sea_Asia",
-        "content": "if they talking online about shit you know they don't know about, lying about, fronting on... etc CHECK THEY ASS",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/Sea_Asia/status/683129580937461762#m",
-        "timestamp": "2026-04-02T18:43:22.561017+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@sentdefender",
-        "content": "U.S. President Donald J. Trump has officially announced that Pam Bondi will be stepping down as attorney general and that Todd Blanche, the deputy attorney general, will step in to serve as Acting Attorney General.",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/sentdefender/status/2039756263291047939#m",
-        "timestamp": "2026-04-02T17:44:43.900682+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@sentdefender",
-        "content": "As European nations continue to struggle to realize an effective joint approach to the ongoing conflict in the Middle East, French President Emmanuel Macron has called a potential operation to reopen the Strait of Hormuz unrealistic and was critical of the U.S. approach to the conflict.",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/sentdefender/status/2039755674301706529#m",
-        "timestamp": "2026-04-02T17:44:43.901087+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@sentdefender",
-        "content": "Per a release from the Israel Defense Force, in the past 24 hours the Israeli Air Force has targeted more than 60 Iranian ballistic missile production and launch sites in Iran, in 20+ strikes in central and western Tehran. 140+ munitions were used in the strikes.",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/sentdefender/status/2039754138695721328#m",
-        "timestamp": "2026-04-02T17:44:43.901115+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@bellingcat",
-        "content": "Subscribe to our newsletter for first access to our published content and events that our staff and contributors are involved with, including interviews and training workshops. bellingcat.us14.list-manage.…",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/bellingcat/status/2009624703644606819#m",
-        "timestamp": "2026-04-02T17:44:43.901144+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@quiztime",
-        "content": "Welcome to @quiztime and it’s #MondayQuiz ☁️ What is missing here? 📮reply just to me with an answer 🤝 reply to all for collaboration 🌈have fun",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/bayer_julia/status/2018423485022835056#m",
-        "timestamp": "2026-04-02T17:44:43.901200+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@vcdgf555",
-        "content": "@GeoConfirmed @andynovy @Shayan86 @GhonchehAzad @MerruX @EGYOSINT @lookner @hey_itsmyturn @john_marquee @bradyafr @MT_Anderson @trbrtc @zarGEOINT @Faytuks @FaytuksNetwork @evanhill",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/vcdgf555/status/2039754166646735284#m",
-        "timestamp": "2026-04-02T17:44:43.901297+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@vcdgf555",
-        "content": "TBM impact geolocation: 32.107251, 34.883641 Petah Tikva, Israel OSINTtechnical (@Osinttechnical) Footage of an Iranian ballistic missile hitting the Israeli city of Petah Tikva tonight. Video — http://nitter.perennialte.ch/Osinttechnical/status/2039752503097500106#m",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/vcdgf555/status/2039753880771371455#m",
-        "timestamp": "2026-04-02T17:44:43.901329+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@vcdgf555",
-        "content": "Footage posted to social media shows the moment an Iranian ballistic missile struck the central city of Petah Tikva this evening. Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/manniefabian/status/2039745587038343309#m",
-        "timestamp": "2026-04-02T17:44:43.901354+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@KyivIndependent",
-        "content": "⚡️Russian general reported killed in An-26 crash in Crimea, BBC reports. Russian Lieutenant-General Aleksandr Otroshchenko was one of those aboard the An-26 transport plane that crashed in Russian-occupied Crimea on March 31. kyivindependent.com/russian-…",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/KyivIndependent/status/2039751374515142811#m",
-        "timestamp": "2026-04-02T17:44:43.901379+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@KyivIndependent",
-        "content": "⚡️Lviv Customs inspector suspected in killing of enlistment officer, police say. Police have detained a Lviv Customs inspector suspected of fatally stabbing an enlistment officer in the neck during a document check on April 2, the National Police said. kyivindependent.com/police-a…",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/KyivIndependent/status/2039746993409392871#m",
-        "timestamp": "2026-04-02T17:44:43.901398+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@WarMonitor3",
-        "content": "A total of 7 high ranking Russian military officers including the commander of the Russian Northern Fleets Aviation Corp were killed in the crashed An-26 military cargo plane in Crimea.",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/WarMonitor3/status/2039749660449849468#m",
-        "timestamp": "2026-04-02T17:44:43.901420+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@WarMonitor3",
-        "content": "BREAKING: Trump has fired Attorney General Pam Bondi-FOX",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/WarMonitor3/status/2039748112839766022#m",
-        "timestamp": "2026-04-02T17:44:43.901434+00:00",
         "human_time": "0m ago"
     }
 ]
