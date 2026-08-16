@@ -1,5 +1,413 @@
 [
     {
+        "source": "X/@dutch_osintguy",
+        "content": "I’ll be speaking at #DEFCON34 @ReconVillage ! “OSINT Is Still a Thinking Game: Surviving AI Without Losing Tradecraft.” If you’re in Las Vegas during #BlackHat or DEFCON, let’s meet. Always happy to reconnect with old friends and make new ones. #OSINT #AI #ReconVillage",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/dutch_osintguy/status/2084355193563480367#m",
+        "timestamp": "2026-08-16T23:13:36.645468+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@MiddleEastEye",
+        "content": "\"The deliberate erosion of democracy has paved the way not only for the selective application of international law, but also for the restriction of fundamental rights within Germany itself\" ✍️ Opinion by Jurgen Mackert mee.s.gy/FdDUn5",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/MiddleEastEye/status/2089125062242619632#m",
+        "timestamp": "2026-08-16T23:13:36.645947+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@Interpol",
+        "content": "From Leno in 2004 to now, thanks for riding with us @tonyhawk ⚡️ Video",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/Interpol/status/2089123911694749734#m",
+        "timestamp": "2026-08-16T23:13:36.646300+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@washingtonpost",
+        "content": "There are more than 176 embassies in Washington, D.C. We analyzed almost 25,000 Google reviews to find out how to become an outstanding embassy. Turns out all you have to do is master one simple trick: Answer the phone. wapo.st/4i9Ixnp",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/washingtonpost/status/2089125083671392663#m",
+        "timestamp": "2026-08-16T23:13:36.646690+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@TheEconomist",
+        "content": "Brazilians may be discovering that, just as an excess of executive power is a challenge to democracy, so an overmighty Congress can be too economist.com/the-americas/2…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/TheEconomist/status/2089125070224437475#m",
+        "timestamp": "2026-08-16T23:13:36.646716+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@ForeignAffairs",
+        "content": "“The first and surest line of defense against an oil shock is to use less oil in the first place,” write @JasonBordoff and Meghan O’Sullivan. foreignaffairs.com/iran/long…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/ForeignAffairs/status/2089123793067196748#m",
+        "timestamp": "2026-08-16T23:13:36.646743+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@ChinaDaily",
+        "content": "On the Hangzhou-Ruili #Expressway, fallen rocks were blocking a lane until a passerby spotted them. 🛣️ Instead of driving past, he pulled over, bravely stepped onto the road, and moved the rocks out of the way to keep others safe. #EverydayHero Video",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/ChinaDaily/status/2089125056291225804#m",
+        "timestamp": "2026-08-16T23:13:36.646848+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@DarkReading",
+        "content": "Long-running Data Theft Campaign Targeting Salesforce, ServiceNow: bit.ly/4ziquBB by Jai Vijayan",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/DarkReading/status/2087972206059954630#m",
+        "timestamp": "2026-08-16T23:13:36.646930+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@CBSNews",
+        "content": "Jared Kushner met with Hamas leaders in Egypt to discuss Gaza peace road map cbsn.ws/4cDAwDB",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/CBSNews/status/2089125048858693921#m",
+        "timestamp": "2026-08-16T23:13:36.647028+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@Reuters",
+        "content": "Manchester City will stay active in transfer market, says Maresca reut.rs/3UB2ppI reut.rs/3UB2ppI",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/Reuters/status/2089125124704268797#m",
+        "timestamp": "2026-08-16T23:13:36.647070+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@Reuters",
+        "content": "Almost 130,000 utility customers in Hawaii had no power after Hurricane Lala brushed the Big Island before being downgraded to a tropical storm reut.rs/3TVsM9P Video",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/Reuters/status/2089122531659616638#m",
+        "timestamp": "2026-08-16T23:13:36.647084+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@CNN",
+        "content": "CNN's third annual list of America's Best Towns to Visit finds less-discovered communities or places whose unexpected histories and curiosities showcase the United States' incredible diversity – from landscapes and architecture to culture and food. cnn.it/4x37ZQ6",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/CNN/status/2089125389788430659#m",
+        "timestamp": "2026-08-16T23:13:36.647127+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@politico",
+        "content": "Trump directs Hegseth to scale back joint military exercises with South Korea dlvr.it/TV2kcF",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/politico/status/2089126480194437605#m",
+        "timestamp": "2026-08-16T23:13:36.647156+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@thehill",
+        "content": "Cassidy on Trump’s vaccine order, ‘crazy, stupid’ claims: ‘This is why the president’s poll numbers are going down’ thehill.com/policy/healthcar…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/thehill/status/2089126558267027578#m",
+        "timestamp": "2026-08-16T23:13:36.647177+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@ANI",
+        "content": "#WATCH | Ujjain, Madhya Pradesh: On the occasion of Nag Panchami, coinciding with a Monday in the holy month of Shravan, the doors of the Nagchandreshwar Temple atop the Mahakaleshwar Temple have been opened. The temple opens only once a year for 24 hours on Nag Panchami. Devotees thronged the temple to seek the blessings of Lord Nagchandreshwar. Video",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/ANI_MP_CG_RJ/status/2089126769710510187#m",
+        "timestamp": "2026-08-16T23:13:36.647210+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@ANI",
+        "content": "#WATCH | Indore: Madhya Pradesh CM Mohan Yadav says, \"Today marks the death anniversary of the late Bharat Ratna Atal Bihari Vajpayee. Indore is receiving a wonderful gift today. We performed the groundbreaking ceremony for a large statue of him at Darshan Maidan; the statue is being constructed at a cost of approximately Rs 2 crore... Developed under the PPP model, we started a digital initiative that offers a truly remarkable experience, allowing one to feel as though they are walking alongside animals from the prehistoric Jurassic era...\" (16.08) Video",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/ANI_MP_CG_RJ/status/2089123254002970802#m",
+        "timestamp": "2026-08-16T23:13:36.647232+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@EFEnoticias",
+        "content": "Una semana después del terremoto de magnitud 7,4 que sacudió a Colombia, las labores de emergencia se centran en recuperar los cuerpos de las víctimas que permanecen bajo los escombros. efe.com/mundo/colombia-terre…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/EFEnoticias/status/2089125998314790941#m",
+        "timestamp": "2026-08-16T23:13:36.647390+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@EFEnoticias",
+        "content": "VIDEO | El mandatario brasileño, Luiz Inácio Lula da Silva, y el senador Flávio Bolsonaro, principal candidato de la oposición, arrancan la campaña para las elecciones presidenciales de octubre en sus respectivas cunas políticas, con la promesa de combatir el crimen organizado. Video",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/EFEnoticias/status/2089125324457906462#m",
+        "timestamp": "2026-08-16T23:13:36.647412+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@EFEnoticias",
+        "content": "Donald Trump opinó que los ejercicios militares con Corea del Sur \"envían una señal totalmente inapropiada y hostil\" a Corea del Norte, que, según él, \"no ha sido amenazante y se ha mostrado respetuoso\" durante su Gobierno. efe.com/mundo/2026-08-16/tru…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/EFEnoticias/status/2089121382726590878#m",
+        "timestamp": "2026-08-16T23:13:36.647431+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@Syria_Map",
+        "content": "Reports now coming in about the fall of the SAA positions at Yaqid al-Adas and Babis. HTS-led forces have thus taken control of all the hills overlooking the Anadan plain and now stand before urbanized areas such as Anadan and Kafr Hamra, the northern suburbs of Aleppo.",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/syria_map/status/1862097706552086849#m",
+        "timestamp": "2026-08-16T23:13:36.647537+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@Telemundo",
+        "content": "Muere el exlanzador de la MLB, Tommy John, a los 83 años. trib.al/k9BT0bf",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/Telemundo/status/2089079657211589034#m",
+        "timestamp": "2026-08-16T23:13:36.647692+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@Infobae",
+        "content": "Qué relación hay entre comer picante y vivir más, según la ciencia | Por Fernando Mongelós infobae.com/salud/ciencia/20…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/infobae/status/2089125544839287086#m",
+        "timestamp": "2026-08-16T23:13:36.647709+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@Infobae",
+        "content": "🔴 AHORA | Con el debut de Thiago Almada y un gol de Ángel Correa, River venció 2 a 0 a Argentinos Juniors y logró su primer triunfo en el Torneo Clausura infob.ae/4y4x1ib",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/infobae/status/2089124728283730425#m",
+        "timestamp": "2026-08-16T23:13:36.647729+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@Infobae",
+        "content": "En doce meses se abrieron más de 1.900 nuevas franquicias en Argentina: cuánto hay que invertir y qué rubros demandan más socios | Por Mariano Zalazar infobae.com/economia/2026/08…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/infobae/status/2089123823085895768#m",
+        "timestamp": "2026-08-16T23:13:36.647747+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@LaNacion",
+        "content": "El inesperado reencuentro de Sofi Martínez y Diego Leuco: risas, complicidad y un abrazo lanacion.com.ar/espectaculos…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/LANACION/status/2089122721384808510#m",
+        "timestamp": "2026-08-16T23:13:36.647766+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@LaTercera",
+        "content": "Carmona critica conducción del gobierno de Kast y plantea que “deberíamos pedir que renuncie todo el gabinete” latercera.com/politica/notic…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/latercera/status/2089125053921399132#m",
+        "timestamp": "2026-08-16T23:13:36.647785+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@LaTercera",
+        "content": "Yeomans se impone en resultados preliminares de elección interna del FA y queda ad portas de liderar el partido latercera.com/politica/notic…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/latercera/status/2089125000989089956#m",
+        "timestamp": "2026-08-16T23:13:36.647801+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@GaziTV",
+        "content": "Media Times 24 | পুরানো সেই দিনের কথা’য় রানী হামিদ mediatimes24.com/news/microa…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/Gazitv/status/319346337873264640#m",
+        "timestamp": "2026-08-16T23:13:36.648430+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@ToloNews",
+        "content": "نورستان چې د افغانستان له ځنګل لرونکو ولایتونو څخه دی، په وروستیو کلونو کې پکې د طبیعي ځنګلونو د ناقانونه او بې‌رویې وهلو په اړه اندېښنې زیاتې شوې دي. #طلوع‌نیوز tolonews.com/pa/afghanistan-…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/TOLOnews/status/2089126379325620349#m",
+        "timestamp": "2026-08-16T23:13:36.648826+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@ToloNews",
+        "content": "د جرمني په برلین کې د افغان کډوالو د ایستلو په تړاو د دغه هېواد د حکومت د پرېکړې پر ضد لاریون شوی دی. دغه لاریون چې په جرمني کې د پښتون ژغورنې غورځنګ د غړو له لوري ترسره شوی، ګډونوالو یې د جرمني له حکومت څخه غوښتي چې د افغانانو د ایستلو پر پرېکړې له سره غور وکړي. لاریونوالو د افغان کډوالو د وضعیت په اړه اندېښنه څرګنده کړې او ټینګار یې کړی چې د هغوی د پناه غوښتنې او استوګنې قضیې باید د بشري حقونو او قانوني اصولو په پام کې نیولو سره وارزول شي. دا لاریون داسې مهال کېږي چې په جرمني او د اروپا په یو شمېر نورو هېوادونو کې د کډوالۍ پر سیاستونو بحثونه زیات شوي او د افغان کډوالو د استوګنې او بېرته ستنولو موضوع هم د دغو بحثونو یوه برخه ده. #طلوع‌نیوز",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/TOLOnews/status/2089122237106491392#m",
+        "timestamp": "2026-08-16T23:13:36.648847+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@BBCPashto",
+        "content": "د کورکمن د \"ګټو\" په اړه ځینې باورونه bbc.in/4qngqn5",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/bbcpashto/status/2089125072187326963#m",
+        "timestamp": "2026-08-16T23:13:36.648891+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@VOAPashto",
+        "content": "د امریکا د متحدو ایالتونو ولسمشر ډونالډ ټرمپ وايي دی \"خوښ\" نه دی چې هېواد يې له پخوا د سویلي کوریا سره د ګډو پوځي تمریناتو د کولو موافقه کړې ده. pashtovoa.com/a/trump-instru…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/VOAPashto/status/2089123528742445325#m",
+        "timestamp": "2026-08-16T23:13:36.648908+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@Aviation_Intel",
+        "content": "Navy’s Cold War-Era Helicopter Crew Escape System Literally Sliced Fuselages Apart The little-known history of the Navy's wacky escape capsule concept for helicopter crews. From the TWZ vault: twz.com/air/navys-cold-war-e…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/thewarzonewire/status/2089091074350580207#m",
+        "timestamp": "2026-08-16T23:13:36.649092+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@Gulf_News",
+        "content": "Learn how Salik fines in Dubai work, full list of violations, penalties, dispute options and tips to avoid costly toll charges and inactive account balance loss. mrf.lu/2R1bV",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/gulf_news/status/2089125497233973287#m",
+        "timestamp": "2026-08-16T23:13:36.650025+00:00",
+        "human_time": "0m ago"
+    },
+    {
         "source": "X/@WarMonitor3",
         "content": "US economics sanctions and blockade of Iran starting to really impact the Iranian economy and fuel reserves which will only get worse over the next month.",
         "metrics": {
@@ -119589,414 +119997,6 @@
         },
         "link": "http://nitter.perennialte.ch/AirWarCollege/status/1129470355943362563#m",
         "timestamp": "2026-08-14T17:27:21.390419+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@FreedomHouse",
-        "content": "Yalda Moaiery’s photographs showed the world what was happening inside Iran. Now, the regime wants to silence her. The photojournalist has been sentenced to 15 years in prison as Iranian authorities escalate executions and pressure artists and other critical voices. Journalism, art, and peaceful dissent are not crimes. Freedom House stands with the Iranian people, who have endured decades of repression and continue to demand their fundamental freedoms. Read more in Le Monde: lemonde.fr/en/international/…",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/freedomhouse/status/2088309764870570414#m",
-        "timestamp": "2026-08-14T17:27:21.390500+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@snopes",
-        "content": "❌ No, texts don't prove Anthony Fauci covered up data indicating 82% of pregnant women who received a COVID-19 vaccine in their first trimester miscarried. Studies have consistently shown the rate of miscarriage among vaccinated women is in line with rates among the broader population: snopes.com/fact-check/fauci-…",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/snopes/status/2088310486425079888#m",
-        "timestamp": "2026-08-14T17:27:21.390570+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@OxfordInternet",
-        "content": "If you have been selected please complete the questionnaire in the link! Thanks!",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/oxfordinternet/status/193693458085580804#m",
-        "timestamp": "2026-08-14T17:27:21.390595+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@RevEye",
-        "content": "Yon sosyete kote dwa fanm respekte se yon sosyete k ap bouje. #WomensDay #8Marzo #8Mars #Haiti",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/CAPSanteMentale/status/1236666416566329347#m",
-        "timestamp": "2026-08-14T17:27:21.390617+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@CDRSalamander",
-        "content": "Complying with the President’s executive orders and basic moral sense, @StateDept defunded contractors and others who discriminate against, or grant preferential treatment to, anybody on account of race. A word of advice: if you claim to apportion “class-based” or “need-based” aid, but rely on skin color instead, you’re out out of compliance. If you lie about it, you’re likely defrauding the government. Be careful! Aaron Sibarium (@aaronsibarium) NEW: After SFFA v. Harvard, a top DEI fellowship said it would focus on class instead of race. Three years later, the fellowship has accepted almost zero white people. And its 2026 cohort includes some of the most privileged students in the county.🧵 — http://nitter.perennialte.ch/aaronsibarium/status/2087949777996578817#m",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/UnderSecPD/status/2088227668923674738#m",
-        "timestamp": "2026-08-14T17:27:21.390678+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@ForeignOfficePk",
-        "content": "Canada extends its best wishes to the people of Pakistan on the occasion of #Pakistan’s Independence Day. Our countries are united by strong people-to-people ties, a vibrant community and growing cooperation. Enjoy the celebrations! Canada in Pakistan (@CanHCPakistan) یومِ آزادی مبارک، پاکستان! 🇵🇰 ہم کینیڈا اور پاکستان کے دوطرفہ دوستانہ تعلقات اور عوام کے مابین ان مضبوط رشتوں کا جشن مناتے ہیں جو ہمیں آپس میں جوڑتے ہیں، اور آنے والے مستقبل میں امن، خوشحالی اور جامع ترقی کے لیے اس شراکت داری کو مزید مستحکم ہوتا دیکھنے کے منتظر ہیں۔ Video — http://nitter.perennialte.ch/CanHCPakistan/status/2088223198626378129#m",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/CanadaFP/status/2088274529076318617#m",
-        "timestamp": "2026-08-14T17:27:21.390736+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@ForeignOfficePk",
-        "content": "🇵🇰 On August 14 #Pakistan celebrates #IndependenceDay 🤝 Fostering mutually beneficial #RussiaPakistan partnership — Moscow's priority in #SouthAsia 🎉 We congratulate our Pakistani friends on national holiday, wish them success, prosperity &amp; well-being t.me/MFARussia/31434",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/mfa_russia/status/2088244314841211257#m",
-        "timestamp": "2026-08-14T17:27:21.390773+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@NAPakistan",
-        "content": "Trying to understand the dysfunction of #Karachi- The quintessential ‘un-city’- thenews.com.pk/TodaysPrintDe… #MQM, #Muhajir, #ISI, #Pakistan, #altaf",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/naPakistan/status/99568233216094208#m",
-        "timestamp": "2026-08-14T17:27:21.390799+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@PakFC",
-        "content": "hey mam irealy love ur music im sch abig fan everytym ilistn 2 u iblv dat god is here wit us keep on blessing us",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/pakfc/status/155029819497783296#m",
-        "timestamp": "2026-08-14T17:27:21.390830+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@DunyaNews",
-        "content": "پاکستان بمقابلہ عالمی ممالک،دنیا نے انتظامی ڈھانچہ بدلا #DunyaNews #DunyaNewsPrograms @SammerAbbas #tonightwithsamarabbas Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/DunyaNews/status/2088314708864672218#m",
-        "timestamp": "2026-08-14T17:27:21.390974+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@DunyaNews",
-        "content": "دنیا نیوز 09بجے کی ہیڈلائنز 14اگست 2026 خبروں کی تفصیل جاننے کے لیے دئیے گئے لنک پر کلک کیجئے : youtube.com/@DunyanewsOffici… #DunyaNews #DunyaVideos #NewsHeadlines Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/DunyaNews/status/2088312834862313509#m",
-        "timestamp": "2026-08-14T17:27:21.390995+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@DunyaNews",
-        "content": "بلوچستان کے 8 صوبے، نیا نظام کتنا مؤثر اور قابلِ عمل ہوگا؟ #DunyaNews #DunyaNewsPrograms #SamarAbbas #tonightwithsamarabbas Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/DunyaNews/status/2088312458641551491#m",
-        "timestamp": "2026-08-14T17:27:21.391015+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@SamaaTV",
-        "content": "\"لیپ ٹاپ مشین نہیں، مشن ہے\" وزیراعظم کے بیان پر حسن نثار کا جواب #SamaaTV #BlackAndWhite #HassanNisar #MaryamZafar @iMariamZafar @HassanNisar Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/SAMAATV/status/2088314614039892367#m",
-        "timestamp": "2026-08-14T17:27:21.391035+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@SamaaTV",
-        "content": "10 PM Headlines - Samaa TV – 14 August, 2026 Follow Samaa TV’s WhatsApp Channel for breaking news from Pakistan and beyond – straight to your pocket! 🔗Join here: whatsapp.com/channel/0029Va8… #SamaaTV #Headlines #LatestNews #Pakistan Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/SAMAATV/status/2088314326860087725#m",
-        "timestamp": "2026-08-14T17:27:21.391057+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@SamaaTV",
-        "content": "سب سے پہلے کون سا صوبہ بنائیں۔۔۔؟؟ #SamaaTV #BlackAndWhite #HassanNisar #MaryamZafar @iMariamZafar @HassanNisar Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/SAMAATV/status/2088313646204256642#m",
-        "timestamp": "2026-08-14T17:27:21.391082+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@BOLNetwork",
-        "content": "رات 9 بجے کی ہیڈلائنز - 14اگست 2026 #BOLNews #Headlines Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/BOLNETWORK/status/2088313527371251873#m",
-        "timestamp": "2026-08-14T17:27:21.391105+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@BOLNetwork",
-        "content": "Russian President Vladimir Putin and Iranian President Masoud Pezeshkian have congratulated Pakistan on its 79th Independence Day bolnews.com/world/russia-ira…",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/BOLNETWORK/status/2088311260924530720#m",
-        "timestamp": "2026-08-14T17:27:21.391121+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@BOLNetwork",
-        "content": "پاکستان اور فرانس کے درمیان پیرس میں کثیرالجہتی امور پر مشاورت کا اجلاس منعقد ہوا۔ bolnews.com/urdu/pakistan/85…",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/BOLNETWORK/status/2088310755682902286#m",
-        "timestamp": "2026-08-14T17:27:21.391136+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@ProthomAlo",
-        "content": "ব্রিকস শীর্ষ সম্মেলনের আগে–পরে বাংলাদেশের প্রধানমন্ত্রী তারেক রহমান দ্বিপক্ষীয় সফরে ভারতে যাচ্ছেন কি না, সে বিষয়ে ভারতের পররাষ্ট্র মন্ত্রণালয়ের ব্রিফিংয়ে একগুচ্ছ প্রশ্ন করেছেন সাংবাদিকেরা। prothomalo.com/bangladesh/rt…",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/ProthomAlo/status/2088314334984142892#m",
-        "timestamp": "2026-08-14T17:27:21.391226+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@ProthomAlo",
-        "content": "কক্সবাজার শহরের কেন্দ্রীয় বাস টার্মিনাল এলাকায় একটি আবাসিক হোটেলের কক্ষ থেকে আতাউল কবির (৪৪) নামের এক পুলিশ সদস্যের ঝুলন্ত মরদেহ উদ্ধার করেছে পুলিশ। prothomalo.com/bangladesh/di…",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/ProthomAlo/status/2088311062189785489#m",
-        "timestamp": "2026-08-14T17:27:21.391241+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@ProthomAlo",
-        "content": "জাতীয়তাবাদী ছাত্রদলের নতুন কমিটি হচ্ছে শিগগিরই। দুই বছর মেয়াদি কেন্দ্রীয় কমিটির মেয়াদ শেষ হওয়ায় এবার নতুন নেতৃত্ব ঘোষণার পথে ছাত্রদল। prothomalo.com/politics/s0ch…",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/ProthomAlo/status/2088307845687070741#m",
-        "timestamp": "2026-08-14T17:27:21.391256+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@GaziTV",
-        "content": "Media Times 24 | পুরানো সেই দিনের কথা’য় রানী হামিদ mediatimes24.com/news/microa…",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/Gazitv/status/319346337873264640#m",
-        "timestamp": "2026-08-14T17:27:21.391296+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@MinOfCultureGoI",
-        "content": "A reflection &amp; a powerful symbol of our shared pride &amp; the spirit of #HarGharTiranga 🇮🇳 Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/MinOfCultureGoI/status/2088312796077564163#m",
-        "timestamp": "2026-08-14T17:27:21.391327+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@MinOfCultureGoI",
-        "content": "",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/MinOfCultureGoI/status/2088311436779131030#m",
-        "timestamp": "2026-08-14T17:27:21.391345+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@MinOfCultureGoI",
-        "content": "Partition Horrors Remembrance Day was observed today in Kolkata in the presence of Shri RN Ravi, Hon'ble Governor of West Bengal, at the New Convention Centre. To commemorate the day, the Ministry of Culture also organised special educational exhibitions and screenings of short films on the subject of partition to honour the memory, pain, grief, and resilience of those displaced by the 1947 Partition. @lokbhavan_wb #PartitionHorrorsRemembranceDay #CultureUnitesAll",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/MinOfCultureGoI/status/2088311423571234843#m",
-        "timestamp": "2026-08-14T17:27:21.391359+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@MoEFCC",
-        "content": "One Nation. One Flag. One Feeling- #HarGharTiranga! From 9-17 August, hoist with pride. Remember the sacrifices of those who gave their everything for our freedom &amp; pay a tribute to the spirit of Vande Mataram. Upload Tiranga selfies on harghartiranga.com #HGT2026 Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/moefcc/status/2088306657910731222#m",
-        "timestamp": "2026-08-14T17:27:21.391383+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@MoHUA_India",
-        "content": "आज नई दिल्ली स्थित @hudcolimited के कार्यालय में ‘हर घर तिरंगा’ अभियान के अंतर्गत आयोजित कार्यक्रम में सम्मिलित हुआ। आदरणीय प्रधानमंत्री श्री @narendramodi जी के नेतृत्व में शुरू हुआ यह अभियान आज एक व्यापक जनआंदोलन का स्वरूप ले चुका है, जिसने देशवासियों को राष्ट्रीय ध्वज के प्रति सम्मान और राष्ट्र के प्रति गौरव की भावना से जोड़ने का कार्य किया है। तिरंगा केवल हमारा राष्ट्रीय ध्वज नहीं, बल्कि भारत की एकता, अखंडता और संकल्प का प्रतीक है। आइए, इसके सम्मान में सहभागी बनकर #HarGharTiranga अभियान को जनभागीदारी का सशक्त उत्सव बनाएं।",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/mlkhattar/status/2088288486990504043#m",
-        "timestamp": "2026-08-14T17:27:21.391405+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@MoHUA_India",
-        "content": "Hon’ble Union Minister of Housing & Urban Affairs and Power, Shri @mlkhattar, led the #HarGharTiranga celebrations at India Habitat Centre, New Delhi, today. The Tiranga is more than our National Flag—it is our shared identity, our pride and a symbol of the unity that binds 140 crore Indians together. Inspired by Hon’ble Prime Minister Shri @narendramodi ji’s call to deepen every citizen’s personal connection with the National Flag, HarGharTiranga has grown into a powerful Jan Bhagidari movement—taking the Tiranga to every home and the spirit of Nation First to every heart. @MoHUA_India || @MinOfPower || @hudcolimited || @SwachhBharatGov || @amrut_MoHUA || @PIB_India || @mygovindia || @pmsvanidhi",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/officeofmlk/status/2088291918379896957#m",
-        "timestamp": "2026-08-14T17:27:21.391454+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@DRDO_India",
-        "content": "रक्षा क्षेत्र के इस बदलते परिवेश में, DRDO और हमारी सेनाओं ने, भविष्य की युद्ध तकनीकों में भारत को अग्रणी पायदान पर ला खड़ा किया है: रक्षा मंत्री श्री @rajnathsingh",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/DefenceMinIndia/status/2088238764393193489#m",
-        "timestamp": "2026-08-14T17:27:21.391503+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@DRDO_India",
-        "content": "Solid Fuel Ducted Ramjet, तकनीक का सफल प्रदर्शन भी, उतना ही महत्वपूर्ण है। Air Defence में हमारी शक्ति स्वदेशी 'Kusha' Long Range Surface-to-Air Missile के पहले सफल परीक्षण से और बढ़ गई है, जिसके सभी सिस्टम पूर्णतः स्वदेशी हैं: रक्षा मंत्री श्री @rajnathsingh",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/DefenceMinIndia/status/2088239140613796259#m",
-        "timestamp": "2026-08-14T17:27:21.391521+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@INCIndia",
-        "content": "The WBPCC held protests across West Bengal against caste discrimination, expressing solidarity with Congress President Shri @kharge. The BJP’s politics of hate will not be tolerated. We will fight for equality, dignity, and justice. 📍 West Bengal",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/INCIndia/status/2088315881843786002#m",
-        "timestamp": "2026-08-14T17:27:21.391542+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@INCIndia",
-        "content": "BJP की मानसिकता में ही दलितों का विरोध छिपा हुआ है, जिसे हल्द्वानी में कांग्रेस अध्यक्ष श्री मल्लिकार्जुन खरगे जी के भाषण स्थल का शुद्धिकरण करवाकर BJP ने साबित कर दिया है। भारत में ऐसी नफरती मानसिकता की कोई जगह नहीं है। मध्य प्रदेश कांग्रेस के कार्यकर्ताओं ने प्रदेश अध्यक्ष @jitupatwari जी के नेतृत्व में BJP की गिरी हुई सोच का विरोध किया। 📍 मध्य प्रदेश",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/INCIndia/status/2088310497854829038#m",
-        "timestamp": "2026-08-14T17:27:21.391563+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@INCIndia",
-        "content": "The BJP’s discriminatory mindset is an insult not just to Congress President Shri @kharge ji, but to every Dalit of India. Today, under the leadership of Tripura Pradesh Congress Committee President Shri @AsishSaha_INC, Congress workers took to the streets in Agartala city to condemn this regressive mindset and demand dignity, equality and justice for all. 📍 Tripura",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/INCIndia/status/2088310331508752655#m",
-        "timestamp": "2026-08-14T17:27:21.391590+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@AamAadmiParty",
-        "content": "आज तक किसी भी पार्टी ने सनातन धर्म के लिए उतना काम नहीं किया है, जितना आम आदमी पार्टी ने किया है। — @ArvindKejriwal जी, राष्ट्रीय संयोजक, AAP Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/AamAadmiParty/status/2088302535799091352#m",
-        "timestamp": "2026-08-14T17:27:21.391615+00:00",
         "human_time": "0m ago"
     }
 ]
