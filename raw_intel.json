@@ -1,5 +1,941 @@
 [
     {
+        "source": "X/@aaronjmate",
+        "content": "The Atlantic (@TheAtlantic) The “resistance” was never cool, but it was right about Trump’s nature—and about how to defeat him, @jonathanchait argues. theatlantic.com/ideas/2026/0… — http://nitter.perennialte.ch/TheAtlantic/status/2090496853020119240#m",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/aaronjmate/status/2090570844103733545#m",
+        "timestamp": "2026-08-20T22:57:15.085131+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@GeromanAT",
+        "content": "Most of Mykolaipillya has effectively been taken by Russian army (fighting is still ongoing on the northern outskirts). In conjunction with the Raiske and Oleksiievo-Druzhkivka axes, Ukrainian troops north of Rusyn Yar are at risk of being cut off from supplies. However, a Ukrainian withdrawal seems unlikely due to the small number of Russian troops in this area (concentrated on the other two fronts mentioned), so the most likely scenario is the creation of a pocket with isolated Ukrainian troops (supplied by drones), who will attempt to delay the Russian advance towards Druzhkivka, a city where fighting could begin this autumn. 🇷🇺🇺🇦",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/Suriyakmaps/status/2090548826524262639#m",
+        "timestamp": "2026-08-20T22:57:15.085537+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@GeromanAT",
+        "content": "💥 Approximate locations and number of targets hit in Kyiv during the missile strike. It is believed that approximately 70 missiles of various types were used to hit the targets.",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/MilitarySummary/status/2090550864570184084#m",
+        "timestamp": "2026-08-20T22:57:15.085583+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@GeromanAT",
+        "content": "🇺🇦⚡️ — The State Bureau of Investigation of Ukraine is checking military units across Ukraine more than 20 suspects may be charged as early as today. Investigators have planned over 70 searches in the Kyiv, Chernihiv, Vinnytsia, Mykolaiv, Odesa, Dnipropetrovsk, Kharkiv, Ivano-Frankivsk, and Zhytomyr regions. The focus is on identifying \"dead souls,\" corruption, illegal payments, and cases of using military personnel as free labor. @IntelSlava",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/MilitarySummary/status/2090551350392479970#m",
+        "timestamp": "2026-08-20T22:57:15.085604+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@MiddleEastEye",
+        "content": "\"I suspect that the army and the settlers are working together\" – Ruqaya Hassan, besieged Palestinian mother middleeasteye.pulse.ly/supsj…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/MiddleEastEye/status/2090566926632124909#m",
+        "timestamp": "2026-08-20T22:57:15.085671+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@MiddleEastEye",
+        "content": "🔴Nearly everyone in Gaza in need of shelter aid, NRC says More here⤵️ middleeasteye.net/live-blog/…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/MiddleEastEye/status/2090564846534185204#m",
+        "timestamp": "2026-08-20T22:57:15.085691+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@WIONews",
+        "content": "Watching Reels may switch down parts of the brain linked to focus, study finds READ: wionews.com/science/watching… wionews.com/science/watching…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/WIONews/status/2090567052570263951#m",
+        "timestamp": "2026-08-20T22:57:15.085720+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@VP",
+        "content": "VP Vance on tomorrow's visit to Ohio: \"It's such a perfect place to talk about what I think is the fundamental message of Donald Trump's economic nationalism, which is rebuilding American industry, rebuilding America's middle class...and making America more self-reliant.\"🇺🇸 Video",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/VP/status/2090568686331396128#m",
+        "timestamp": "2026-08-20T22:57:15.085844+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@VP",
+        "content": ".@VP: \"Even though the debt is too high, even though we inherited this debt bomb from the Biden Administration, we actually do have a plan to get the economy growing faster than the debt, and that's the most important thing.\" Video",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/RapidResponse47/status/2090534521191989596#m",
+        "timestamp": "2026-08-20T22:57:15.085871+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@VP",
+        "content": ".@VP: \"We have a way better U.S. Senate today — a way better Senate GOP today — than we had five years ago, ten years ago, 20 years ago, but you still have some Senators who are so committed to these ridiculous parliamentary rules even though the Democrats aren't.\" Video",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/RapidResponse47/status/2090563451160613115#m",
+        "timestamp": "2026-08-20T22:57:15.085893+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@lulaoficial",
+        "content": "Lula em Natal: o Brasil Pronto Pra Mais nitter.perennialte.ch/i/broadcasts/1kJzDPamM…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/LulaOficial/status/2090571288456921399#m",
+        "timestamp": "2026-08-20T22:57:15.085941+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@AviationWeek",
+        "content": "🛩️ New revisions to ARP4754B & ARP4761A are here—plus new AIRs released this year. Join us August 25th at 2 PM EDT for insights from the SAE S-18 committee on what's changed and how to align your team with updated best practices. Register now: bit.ly/45Rpo2a #Aerospace #SystemSafety #Certification",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/AviationWeek/status/2090571101508084188#m",
+        "timestamp": "2026-08-20T22:57:15.086299+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@WarOnTheRocks",
+        "content": "Unlock exclusive access to The Russia Contingency with Michael Kofman, Thinking the Unthinkable with Ankit Panda, and The Iran Reckoning with Afshon Ostovar — available only to War on the Rocks members. Join today. warontherocks.com/membership…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/WarOnTheRocks/status/2090570847333335521#m",
+        "timestamp": "2026-08-20T22:57:15.086402+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@CBP",
+        "content": "nitter.perennialte.ch/OFOEAC/status/20904249… Executive Asst. Commissioner Diane J. Sabatino (@OFOEAC) Today marks the anniversary of the Plant Quarantine Act of 1912, which empowered the USDA to inspect and quarantine agricultural goods. CBP agriculture specialists continue this vital work, protecting America’s natural resources from harmful pests and diseases. — http://nitter.perennialte.ch/OFOEAC/status/2090424920375181748#m",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/CBP/status/2090437479455232257#m",
+        "timestamp": "2026-08-20T22:57:15.086434+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@ArmyIntel",
+        "content": "ACORN is a criminal organization collecting our tax dollars and in return we get voter fraud and tax evasion tips.",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/ArmyIntel/status/4061903907#m",
+        "timestamp": "2026-08-20T22:57:15.086486+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@ianbremmer",
+        "content": "america's national debt just hit $40 trillion. trump added $7.9t his first term, biden added $8.4t, trump's second term is already at $3.8t … and they say bipartisanship is dead.",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/ianbremmer/status/2090566195397242936#m",
+        "timestamp": "2026-08-20T22:57:15.086535+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@nytimes",
+        "content": "From @TheAthletic: What’s up with U.S. Open ticket prices? Prices for every kind of seat are on the rise: A grounds pass with no guaranteed seat on any court — stadium or otherwise — is going for over $360. The face value is $65. nyti.ms/4giR4St",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/nytimes/status/2090565807247876609#m",
+        "timestamp": "2026-08-20T22:57:15.086553+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@washingtonpost",
+        "content": "For Fabiana Justiniano and Scarlett Rocha, their Aug. 7 wedding was more than a personal milestone. It was a legal one, too: Bolivia’s first same-sex civil marriage. Video",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/washingtonpost/status/2090567195885507043#m",
+        "timestamp": "2026-08-20T22:57:15.086574+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@TheEconomist",
+        "content": "In their efforts to expand the franchise and their faith in democracy, Charles Lennox and James Wilson were both ahead of their time—and their stories are a welcome rediscovery today economist.com/culture/2026/0…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/TheEconomist/status/2090569587477594171#m",
+        "timestamp": "2026-08-20T22:57:15.086594+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@TheEconomist",
+        "content": "Two of Oklahoma’s leaders came of age in the 1990s, when they saw their state respond to extremism with compassion. Now they are trying to model political comity for the rest of the country economist.com/united-states/…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/TheEconomist/status/2090564554463842677#m",
+        "timestamp": "2026-08-20T22:57:15.086613+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@PeterZeihan",
+        "content": "Beyond the environmental disaster, the next question is that of insurance. Since the shadow fleet is \"covered\" by Russia's state-backed insurance system, whether they pay out or not will determine just how much longer the decrepit shadow fleet can operate. #shadowfleet #crudeoil #russia #geopolitics Video",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/PeterZeihan/status/2090205590559785071#m",
+        "timestamp": "2026-08-20T22:57:15.086656+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@DavidFrum",
+        "content": "Exclusive: The Interior Department created a “White House priorities” list so that Trump’s pet projects could quickly be approved and funded—while maintenance needs at national parks across the country were deemed lower priorities, @michaelscherer reports: theatlantic.com/politics/202…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/TheAtlantic/status/2090542868041458122#m",
+        "timestamp": "2026-08-20T22:57:15.086684+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@XHNews",
+        "content": "Amid continuing Israeli attacks, 94 percent of the Gaza Strip's 2.1 million people need shelter and basic household assistance, UN humanitarians said Thursday. xhtxs.cn/beow",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/XHNews/status/2090569969037631633#m",
+        "timestamp": "2026-08-20T22:57:15.086740+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@CBSNews",
+        "content": "WATCH: The CBS Evening News with @TonyDokoupil starts now on CBS. Video",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/CBSEveningNews/status/2090569240034030070#m",
+        "timestamp": "2026-08-20T22:57:15.086882+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@CBSNews",
+        "content": "California House candidate Angela Gonzales-Torres, a Democratic socialist challenging Rep. Jimmy Gomez (D-CA), declined to say whether she would vote for House Democratic Leader Hakeem Jeffries for speaker if Democrats win control of the House in November’s midterm elections. Jeffries has said he does not support the agenda of the Democratic Socialists of America. Video",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/CBSNews/status/2090569120202813655#m",
+        "timestamp": "2026-08-20T22:57:15.086901+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@FT",
+        "content": "Opinion: The world’s biggest chip company is using its balance sheet to seed new markets and a new business model. ft.trib.al/mW4x8NA",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/FT/status/2090571359491338318#m",
+        "timestamp": "2026-08-20T22:57:15.086940+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@WSJ",
+        "content": "A band of ambitious entrepreneurs in Hawaii are building a manufacturing and technology industry that officials hope will rescue the state from a sagging tourism economy, depressed wages and an exodus of young residents to the mainland. 🔗: on.wsj.com/3SiQaxw",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/WSJ/status/2090567743091179604#m",
+        "timestamp": "2026-08-20T22:57:15.086977+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@Reuters",
+        "content": "Woman charged with planning ISIS-inspired attack on New York State Capitol building reut.rs/3Sm7nWD reut.rs/3Sm7nWD",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/Reuters/status/2090569640657166713#m",
+        "timestamp": "2026-08-20T22:57:15.086999+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@Reuters",
+        "content": "Former Pakistan PM Imran Khan moved to hospital after court order, his party says reut.rs/4gj5xOh reut.rs/4gj5xOh",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/Reuters/status/2090568337461809179#m",
+        "timestamp": "2026-08-20T22:57:15.087014+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@Reuters",
+        "content": "Tunisia opposition protests against president amid economic discontent reut.rs/4glhxPl reut.rs/4glhxPl",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/Reuters/status/2090567265443885077#m",
+        "timestamp": "2026-08-20T22:57:15.087028+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@AP",
+        "content": "Kyle Chandler and Aaron Pierre detail their relationship while working on \"Lanterns.\" #KyleChandler #AaronPierre #Lanterns Video",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/AP/status/2090567082895081583#m",
+        "timestamp": "2026-08-20T22:57:15.087042+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@AFP",
+        "content": "VIDEO: A century-old Hong Kong tradition is at risk of disappearing. Bamboo theatre builders have dwindled from around 140 in the 1980s to just 30 to 40 today, as demand for the temporary structures declines. But veteran builder Lai Chi-ming, 53, says he will keep working — and passing the craft on to younger builders — for as long as he can. Video",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/AFP/status/2090567229322448977#m",
+        "timestamp": "2026-08-20T22:57:15.087065+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@AJEnglish",
+        "content": "BREAKING: Israeli forces prevent ambulances from reaching Palestinians injured by Israeli settlers in Khirbet Deir Shams, occupied West Bank, Red Crescent says 🔴 LIVE updates: aje.news/oabe7u?update=48708…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/AJENews/status/2090569700006650291#m",
+        "timestamp": "2026-08-20T22:57:15.087094+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@AJEnglish",
+        "content": "The United States has announced new sanctions on Cuba, targeting nine state-owned mining, metal and construction companies, plus three leaders of a state friendship organisation accused by Washington of running a \"subversive network.\" 🔗 aje.news/figrvm",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/AJEnglish/status/2090570825196073213#m",
+        "timestamp": "2026-08-20T22:57:15.087113+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@AJEnglish",
+        "content": "Amputee children in Khan Younis are learning to swim as part of a programme helping them rebuild confidence and mobility after devastating war injuries. Gaza has the world’s highest number of child amputees per capita, an estimated 4,000 since the war began. Video",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/AJEnglish/status/2090567052557746355#m",
+        "timestamp": "2026-08-20T22:57:15.087132+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@SkyNews",
+        "content": "Wax figures of Harry and Meghan have been moved at Madame Tussauds London, after the couple announced their planned return to the UK. However, they haven't been placed back next to waxworks of the main Royal Family, which they were separated from in 2021. Video",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/SkyNews/status/2090572555660742992#m",
+        "timestamp": "2026-08-20T22:57:15.087151+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@SkyNews",
+        "content": "Former Pakistan prime minister Imran Khan moved from prison to hospital for treatment news.sky.com/story/former-pa…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/SkyNews/status/2090565747567129041#m",
+        "timestamp": "2026-08-20T22:57:15.087168+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@SkyNews",
+        "content": "Police appeal for information after man found shot dead in car in London news.sky.com/story/police-ap…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/SkyNews/status/2090565393492398189#m",
+        "timestamp": "2026-08-20T22:57:15.087185+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@politico",
+        "content": "Democrats hash out trans rights message in Massachusetts debate dlvr.it/TV65ct",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/politico/status/2090567947291107495#m",
+        "timestamp": "2026-08-20T22:57:15.087209+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@politicoeurope",
+        "content": "Belgian doctor Hans Kluge, head of the World Health Organization's Europe region, is running for director-general of the agency. An email to WHO staff tonight, seen by POLITICO, confirmed that Kluge would step back from his role to campaign for the job. politico.eu/article/belgium-…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/POLITICOEurope/status/2090566929857577058#m",
+        "timestamp": "2026-08-20T22:57:15.087226+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@thehill",
+        "content": "Man dressed as Darth Vader defends Flock cameras to San Diego City Council: ‘This is what the emperor needs’ thehill.com/policy/technolog…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/thehill/status/2090571076602663123#m",
+        "timestamp": "2026-08-20T22:57:15.087254+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@thehill",
+        "content": "Melania Trump announces new foster scholarships ahead of IndyCar DC event thehill.com/homenews/adminis…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/thehill/status/2090566043425202641#m",
+        "timestamp": "2026-08-20T22:57:15.087275+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@ANI",
+        "content": "#WATCH | Kolkata, West Bengal | On Union Home Minister Amit Shah's visit to West Bengal, state LoP Ritabrata Banerjee said, \"The Home Minister of the country can go to any corner of the country. There should be no question if the Home Minister comes. Our only statement is that the border must remain completely sealed... The border should be sealed for those who are illegal infiltrators and they should be sent back.\" (20.08) Video",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/ANI/status/2090568219312689515#m",
+        "timestamp": "2026-08-20T22:57:15.087305+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@ANI",
+        "content": "#WATCH | Kolkata | On CWC resolution on Vande Mataram, West Bengal BJP President Samik Bhattacharya says, \"... Their politics is communal and divisive...\" He further says, \"In Uttar Pradesh, Congress has been reduced to just a 'signboard party.' Now they will go to the Samajwadi Party... This is a parasitic political organisation. It is this country's misfortune that in such a large nation, not a single national opposition party remains...\" (20.08) Video",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/ANI/status/2090567976596697443#m",
+        "timestamp": "2026-08-20T22:57:15.087327+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@ANI",
+        "content": "#WATCH | Delhi | On Jharkhand High Court's stay on the cancellation of JPSC exams and appointments, Shiv Sena UBT MP Priyanka Chaturvedi says, \"... Somewhere we will fail in the students' demand for transparency. There is another section that says their jobs will be lost. Where transparency and accountability need to increase, the court should also work in that direction.\" (20.08) Video",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/ANI/status/2090566800186765434#m",
+        "timestamp": "2026-08-20T22:57:15.087348+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@ndtv",
+        "content": "From Train Bathroom Selfies To Auto Rides, European Woman's India Journey Goes Viral ndtv.com/offbeat/train-bathr…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/ndtv/status/2090567049982709851#m",
+        "timestamp": "2026-08-20T22:57:15.087367+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@TimesNow",
+        "content": "Banning Social Media for Children A Policy Decision: Delhi HC Asks Centre To Consider PIL, Stakeholders timesnownews.com/india/banni…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/TimesNow/status/2090567053988053364#m",
+        "timestamp": "2026-08-20T22:57:15.087389+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@FPRI",
+        "content": "🗓️ In-Person Event | Wednesday, September 9 | 5:00 - 6:30 PM Debates around space-based interceptors, especially those in the 1980s and 90s surrounding the Strategic Defense Initiative and Brilliant Pebbles, hinged on the cost of placing the needed number of satellites for a constellation into orbit. With the advent of proliferated constellations in low earth orbit such as Starlink, those debates are worth revisiting. Join FPRI for a conversation with Aaron Stein and Sam Lair on the cost and consequences of proposed space-based interceptor satellite constellations under President Trump's Golden Dome program. Register to attend here: buff.ly/Wd14UmG.",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/FPRI/status/2090569573913276779#m",
+        "timestamp": "2026-08-20T22:57:15.087438+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@MAP_Maroc",
+        "content": "HM The King Inaugurates Centres For Socio-Professional Integration Of Disabled, Worth 7.7 Mln Dirhams tinyurl.com/ca5lb9c",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/map_maroc/status/143546637699133440#m",
+        "timestamp": "2026-08-20T22:57:15.087501+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@ABSCBNNews",
+        "content": "Dumating na ang SOCO sa bahagi ng Viola Highway sa Barangay Talacsan, San Rafael, Bulacan, kung saan inabandona ang MPV na kinatagpuan sa bangkay ng mag-iina nitong Huwebes ng hapon. | via @Beatrice_Cuadra Video",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/ABSCBNNews/status/2090571293452321211#m",
+        "timestamp": "2026-08-20T22:57:15.087535+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@ABSCBNNews",
+        "content": "President Ferdinand Marcos Jr. marks Ninoy Aquino Day by inviting Filipinos to “acknowledge the past and draw from it the resolve needed to safeguard freedom, strengthen our institutions. and deepen national unity.” | via @_katrinadomingo 📷: Office of the President",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/ABSCBNNews/status/2090570849372066097#m",
+        "timestamp": "2026-08-20T22:57:15.087551+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@ABSCBNNews",
+        "content": "Nagpanggap na bibili ang suspek, pero nang tumalikod ang senior citizen na may-ari ng tindahan, agad nitong dinukot ang lalagyan ng mga barya. | via @eon_sanchez",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/ABSCBNNews/status/2090564129350422633#m",
+        "timestamp": "2026-08-20T22:57:15.087570+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@MYNnews",
+        "content": "Good that Louise Gunning has stepped down, but rest of CvB should still apologize profusely for the eviction of the #maagdenhuis occupiers.",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/WJHanegraaff/status/589883514952232960#m",
+        "timestamp": "2026-08-20T22:57:15.087586+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@EFEnoticias",
+        "content": "La ministra colombiana de Educación, Viviane Morales, asegura que hay una campaña 'woke' que ha intentando apoderarse de la enseñanza en el país. efe.com/mundo/2026-08-21/viv…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/EFEnoticias/status/2090568665502470351#m",
+        "timestamp": "2026-08-20T22:57:15.087603+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@EFEnoticias",
+        "content": "Miles de personas en Argentina protestan por el alto endeudamiento de los hogares y el cierre de 30.000 empresas desde diciembre de 2023. efe.com/economia/protestas-a…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/EFEnoticias/status/2090565198457208880#m",
+        "timestamp": "2026-08-20T22:57:15.087621+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@EFEnoticias",
+        "content": "VIDEO | El elenco original de ‘Yo soy Betty, la fea’ vuelve a reunirse, 25 años después de su estreno, para la tercera temporada de la serie, ‘Betty la fea: más fea que nunca’, que llegará el 28 de agosto a Prime Video. 📹 Prime Video. Video",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/EFEnoticias/status/2090563662658392367#m",
+        "timestamp": "2026-08-20T22:57:15.087641+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@MEMRIreports",
+        "content": "Read analysis by #MEMRI President @YigalCarmon: Will #Trump's 'Economic D-Day' Campaign Against 'Any Country' That Supports Iran Include #Qatar, #Iran's Ally (Not America's)? – Part I - Report &amp; audio here ow.ly/fUbA50ZC6gi",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/MEMRIReports/status/2090563718455116160#m",
+        "timestamp": "2026-08-20T22:57:15.087715+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@IslamicJihad",
+        "content": "actually dont thank me for a job that would mean i am not winning lol",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/IslamicJihad/status/291892761387487232#m",
+        "timestamp": "2026-08-20T22:57:15.087754+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@BBCMundo",
+        "content": "Los pescadores rescatados en México tras pasar cinco días a la deriva en el mar aferrados a una hielera bbc.in/3SgGtzF",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/bbcmundo/status/2090571971012460569#m",
+        "timestamp": "2026-08-20T22:57:15.087892+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@Infobae",
+        "content": "🟠 BIANCO: “EL PERONISMO ENCARÓ MAL LA DISCUSIÓN CON EL FMI” El ministro bonaerense cuestionó la estrategia del último gobierno peronista frente al organismo y sostuvo que un eventual próximo mandato deberá tener una postura unificada sobre la deuda. Video",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/infobaenvivo/status/2090572693393322095#m",
+        "timestamp": "2026-08-20T22:57:15.087917+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@Infobae",
+        "content": "“Si soy un problema, dímelo”: la discusión de Pep Guardiola con un líder del Manchester City que terminó con el DT llorando infobae.com/deportes/2026/08…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/infobae/status/2090572359837138991#m",
+        "timestamp": "2026-08-20T22:57:15.087943+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@Infobae",
+        "content": "LA SENTENCIA DE XABI ALONSO CUANDO LE PREGUNTARON POR ENZO FERNÁNDEZ EN MEDIO DE LOS RUMORES DE SALIDA DEL CHELSEA El técnico español Xabi Alonso habló sobre la continuidad de Enzo Fernández en el Chelsea. “Es jugador del Chelsea y de primerísimo nivel. Se está entrenando muy bien desde que se incorporó al equipo hace 10 días y está muy integrado. Estamos contentos con él y se está preparando para el lunes”, declaró el entrenador, con la vista puesta en el debut del equipo en la Premier League ante el Fulham. 🔗 Leé la nota completa: bit.ly/45zr6p3",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/infobae/status/2090572083353047529#m",
+        "timestamp": "2026-08-20T22:57:15.087962+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@LaNacion",
+        "content": "Preocupación por Pablo Alborán: canceló todos sus shows y confirmó atraviesa un delicado estado de salud a.ln.com.ar/4grLmxS",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/LANACION/status/2090564869657444355#m",
+        "timestamp": "2026-08-20T22:57:15.087994+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@NuclearPolicy",
+        "content": "Head of the congressional Golden Dome caucus worries that funding the war in Iran may jeopardize support for the Dome tinyurl.com/ujzwu49e",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/NuclearPolicy/status/2090569413581820317#m",
+        "timestamp": "2026-08-20T22:57:15.088131+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@CDRSalamander",
+        "content": "If your educational purpose is to *learn* to be kind, I assume you are in pre-school. (And then you should appropriately practice that lesson.) Neil O'Brien (@NeilDotObrien) Deeply dishonest piece by the Chancellor of Cambridge. The quote below summarises the broken culture - where \"be kind\" vibes, conformity and safetyism are now more important than truth or knowledge. - The exact culture that caused this tragedy. — http://nitter.perennialte.ch/NeilDotObrien/status/2090324702963372318#m",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/profmarlowe/status/2090568287478280588#m",
+        "timestamp": "2026-08-20T22:57:15.088299+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@CDRSalamander",
+        "content": "Who needs great power competition, this is basically great power transfer. Natalie Winters (@nataliegwinters) EXCLUSIVE: The VA Funded Research With Chinese Military Scientists Using U.S. Veterans’ Genetic and Medical Data. Records show sensitive VA research conducted by research institutions with direct PLA ties and blacklisted for “brain-control weaponry.\" We're talking nearly $680 million. — http://nitter.perennialte.ch/nataliegwinters/status/2090446334549725254#m",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/JoshuaSteinman/status/2090563683717894331#m",
+        "timestamp": "2026-08-20T22:57:15.088326+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@BOLNetwork",
+        "content": "Imran Khan’s car Exclusive footage | Khan Transferred to Shifa Hospital | Breaking News #ImranKhan #AlShifaHospital #BreakingNews Video",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/BOLNETWORK/status/2090564012488728738#m",
+        "timestamp": "2026-08-20T22:57:15.088524+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@CMOPunjab",
+        "content": "BJP always ditchedAkali Dal google.com/url?q=punjabnewsl…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/CMOPUNJAB/status/363457953661071360#m",
+        "timestamp": "2026-08-20T22:57:15.088742+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@ToloNews",
+        "content": "غزني کې یو ځایي خیریه بنسټ په یو جامع جومات کې عامه کتابتون جوړ کړی چې د دیني علومو، اقتصاد، ادبیاتو، طب، انجینرۍ او سیاسي علومو ترڅنګ په بېلابېلو برخو کې له زر ټوکه زیات کتابونه پکې مطالعې ته ایښودل شوي دي. #طلوع‌نیوز tolonews.com/pa/science-tech…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/TOLOnews/status/2090569530796097605#m",
+        "timestamp": "2026-08-20T22:57:15.089025+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@VOAPashto",
+        "content": "د امریکا د متحدو ایالتونو د جګړې وزارت وايې چې د متحدو ایالتونو او د جېمایکا حکومتونو \"د ځواکونو د وضعیت تړون\" لاسلیک کړی دی. pashtovoa.com/a/the-united-s…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/VOAPashto/status/2090571888506650976#m",
+        "timestamp": "2026-08-20T22:57:15.089065+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@RFABurmese",
+        "content": "RFA ရေဒီယိုနဲ့ရုပ်သံ အထူးအစီအစဉ် ၂ဝ၂၆ သြဂုတ်လ ၂၁ ရက်၊ သောကြာနေ့ youtu.be/SkoPpdSxkFE?si=VnZF… via @YouTube",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/RFABurmese/status/2090568941793861837#m",
+        "timestamp": "2026-08-20T22:57:15.089105+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@FrontierMM",
+        "content": "This week on #WhatsHappeninginMyanmar, Min Aung Hlaing returns from Thailand as floods kill dozens, junta airstrikes hit civilians, Rohingya face forced conscription and fighting breaks out in northern Shan State’s Mongmit Township. Listen here: frontiermyanmar.net/en/deadl…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/FrontierMM/status/2088202923360882830#m",
+        "timestamp": "2026-08-20T22:57:15.089132+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@Europe_Expert",
+        "content": "ExoTic Sticker who wants one? Retweet to find out how to get one",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/ExoTicMoTioN/status/587098625655836672#m",
+        "timestamp": "2026-08-20T22:57:15.089530+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@India_Northeast",
+        "content": "Teaser Out Now fb.me/6QZ9ADhnr",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/india_northeast/status/506838229379977216#m",
+        "timestamp": "2026-08-20T22:57:15.089617+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@Research_Japan",
+        "content": "CalendarViewでのgetDateの使い方はこうなのか！",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/research_japan/status/568250471636275200#m",
+        "timestamp": "2026-08-20T22:57:15.089685+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@Trade_Zone",
+        "content": "Tweeps fasten y'all seat belts its gonna be a long journey into time. \"marketing redefined\"",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/trade_zone/status/175224918026362880#m",
+        "timestamp": "2026-08-20T22:57:15.089900+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@Border_Live",
+        "content": "⚫ ALERTE INFO Célèbre pour son rôle dans \"Jurassic Park\", l'acteur Sam Neill est mort bfmtv.com/culture/cinema-ser…",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/BFMTV/status/2076548677422690543#m",
+        "timestamp": "2026-08-20T22:57:15.090074+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "X/@Gas_Europe",
+        "content": "Shine bright like a diamond 💎 #GAS2 #GASWAY GANGSTER ALL ★ STAR ギャングオールスター (@gangsterallstar) I’m like a diamond in the rough, can’t deny my shine. #GAS2 #DIAMANTEFAMIGLIA — http://nitter.perennialte.ch/gangsterallstar/status/1732983553531765065#m",
+        "metrics": {
+            "likes": "0",
+            "comments": "0",
+            "retweets": "0"
+        },
+        "link": "http://nitter.perennialte.ch/gas_europe/status/1732988083140796786#m",
+        "timestamp": "2026-08-20T22:57:15.090155+00:00",
+        "human_time": "0m ago"
+    },
+    {
         "source": "X/@KyivIndependent",
         "content": "Moscow's war machine, Russian propagandists, former Ukrainian officials. Among the targets are former lawmaker Yurii Ivanyushchenko and the creators of the animated Russian children's series \"Masha and the Bear.\" kyivindependent.com/zelensky…",
         "metrics": {
@@ -119061,942 +119997,6 @@
         },
         "link": "http://nitter.perennialte.ch/firstpost/status/2089942738942976051#m",
         "timestamp": "2026-08-19T05:28:11.134907+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@IndiaReviews",
-        "content": "First tweet for http://www.indiareviewsblog.com.. Here we go !",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/indiareviews/status/17928592001#m",
-        "timestamp": "2026-08-19T05:28:11.134918+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@INSVikramaditya",
-        "content": "wish u a very happy republic day....",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/INSVIKRAMADITYA/status/427324322328625152#m",
-        "timestamp": "2026-08-19T05:28:11.134943+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@AdaDerana",
-        "content": "Anti-Corruption Amendment Bill presented in Parliament Read more: adaderana.lk/news/cmszmzid90… #lka #srilanka #adaderana #news #lanka #SriLankaNews #SriLanka",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/adaderana/status/2089946391607194085#m",
-        "timestamp": "2026-08-19T05:28:11.134997+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@AdaDerana",
-        "content": "Dengue death toll climbs to 69 Read more: adaderana.lk/news/cmszmflbu0… #lka #srilanka #adaderana #news #lanka #SriLankaNews #SriLanka #dengue",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/adaderana/status/2089942496352804910#m",
-        "timestamp": "2026-08-19T05:28:11.135016+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@RepublicaNepal",
-        "content": "The prices of gold and silver declined significantly in the Nepali bullion market on Wednesday. myrepublica.nagariknetwork.c…",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/RepublicaNepal/status/2089946022655205766#m",
-        "timestamp": "2026-08-19T05:28:11.135104+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@RepublicaNepal",
-        "content": "myrepublica.nagariknetwork.c…",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/RepublicaNepal/status/2089945466926723089#m",
-        "timestamp": "2026-08-19T05:28:11.135116+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@Etilaatroz",
-        "content": "یکی از مهم‌ترین پی‌آمدهای پس از ۱۵ آگست، خروج بخش قابل‌توجهی از نیروی متخصص افغانستان بوده است. در میان کسانی که پس از ۲۰۲۱ کشور را ترک کردند، تنها نظامیان و فعالان سیاسی حضور نداشتند. استادان دانشگاه، داکتران، مهندسان، روزنامه‌نگاران، دیپلمات‌ها، پژوهشگران و متخصصان حوزه‌های مختلف نیز افغانستان را ترک کردند؛ افرادی که سال‌ها برای کسب دانش و تجربه‌ی حرفه‌ای وقت و منابع صرف کرده بودند. از نظر من، این را نمی‌شود یک مهاجرت عادی دانست. در شرایط فروپاشی سیاسی و ناامنی، خروج گسترده‌ی متخصصان می‌تواند به معنای انتقال اجباری سرمایه‌ی انسانی باشد. افغانستان برای تربیت یک داکتر، مهندس، استاد دانشگاه یا متخصص اداره و سیاست‌گذاری سال‌ها زمان و منابع مصرف می‌کند. وقتی این افراد کشور را ترک می‌کنند، تنها نیروی کار امروز از دست نمی‌رود؛ دانش انباشته، تجربه‌ی اداری، شبکه‌های علمی، حافظه‌ی نهادی و ارتباطات حرفه‌ای نیز تضعیف می‌شود. ممکن است ساختمان دانشگاه همچنان پابرجا باشد، اما بدون استادان مجرب، کیفیت آموزش کاهش می‌یابد. ممکن است وزارت‌خانه‌ها و اداره‌ها همچنان فعال باشند، اما با خروج کارمندان باتجربه، بخشی از حافظه و ظرفیت نهادی کشور از میان می‌رود. از این‌رو، پرسش اساسی تنها این نیست که چند میلیون شهروند افغانستان مهاجرت کرده‌اند؟ پرسش مهم‌تر این است: افغانستان چه میزان دانش، تخصص و تجربه‌ی انباشته‌شده‌ی خود را از دست داده است؟ پاسخ این پرسش را نمی‌شود با شمارش مهاجران یا آمار مبنی بر مدارک به دست آورد. ارزش واقعی یک متخصص در تعداد سال‌های تحصیل و عنوان شغلی او خلاصه نمی‌شود؛ آنچه از دست می‌رود، بخشی از سرمایه‌ای است که یک جامعه طی سال‌ها برای ساختن آن وقت گذاشته است. بیشتر بخوانید: etilaatroz.com/259382",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/Etilaatroz/status/2089943496949981488#m",
-        "timestamp": "2026-08-19T05:28:11.135181+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@Pajhwok",
-        "content": "بربنیاد گزارش‌ها، سه شهروند افغانستان در حملۀ افراد مسلح ناشناس در شهر کویته، مرکز ایالت بلوچستان کشته و یک تن دیگر زخمی شده‌اند. جزئیات کامل را در لینک زیر بخوانید: pajhwok.com/fa/2026/08/19/th… #کویته #افغانان #حمله #کشته‌شدن #Quetta #Afghans #Attack #Deaths",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/pajhwok/status/2089942345668288905#m",
-        "timestamp": "2026-08-19T05:28:11.135234+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@ToloNews",
-        "content": "#امروز_در_تاریخ مهم‌ترین رویدادهای جهان در تاریخ ۱۹ اگست #طلوع‌نیوز Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/TOLOnews/status/2089946231695155206#m",
-        "timestamp": "2026-08-19T05:28:11.135259+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@ToloNews",
-        "content": "ویدیو: قرار است تا لحظاتی دیگر، مراسم گرامی‌داشت از یک‌صدوهفتمین سال‌روز استرداد استقلال افغانستان در مقر وزارت دفاع برگزار شود. انتظار می‌رود مولوی محمدیعقوب مجاهد، وزیر دفاع، و شماری دیگر از مقام‌های امارت اسلامی در این مراسم سخنرانی کنند. پس از پایان مراسم، قرار است مقام‌های امارت اسلامی به منار نجات بروند و در آن‌جا گل بگذارند. همچنین گفته می‌شود که نیروهای هوایی وزارت دفاع نمایش‌های هوایی را در محوطه وزارت دفاع و در نزدیکی منار نجات اجرا خواهند کرد. #طلوع‌نیوز Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/TOLOnews/status/2089944154478661956#m",
-        "timestamp": "2026-08-19T05:28:11.135274+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@ToloNews",
-        "content": "نن (چهارشنبه) د زمري ۲۸مه له انګریزانو د هېواد د خپلواکۍ د بېرته اخیستلو ۱۰۷مه کلیزې سره برابره ده. د وخت شاه، غازي امان الله خان په ۱۲۹۸ لمریز کال کې د انګریزانو د ښکېلاک له پاېته رسولو سره سم دغه ورځ د افغانستان د خپلواکۍ د بېرته اخیستو په نوم ونوموله او له تېرو څه باندې سلو کلونو راهیسې دغه ورځ هر کال په پرتمینه بڼه په هېواد کې د ننه او بهر د افغانانو له لوري نمانځل کیږي. #طلوع‌نیوز",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/TOLOnews/status/2089943337285595346#m",
-        "timestamp": "2026-08-19T05:28:11.135294+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@1TVNewsAF",
-        "content": "د زمري ۲۸مه؛ د افغانستان د خپلواکۍ ۱۰۷مه کلیزه نن چهارشنبه، د زمري ۲۸مه، له انګریزانو څخه د افغانستان د خپلواکۍ د بېرته ترلاسه کولو له ۱۰۷مې کلیزې سره برابره ده. د افغانستان د تاریخ له مهمو ورځو څخه د زمري ۲۸مه هر کال د هېواد د خپلواکۍ د ورځې په توګه نمانځل کېږي. دا ورځ په ۱۲۹۸ لمریز کال کې د وخت د پاچا، غازي امان‌الله خان، له لوري له انګریزانو څخه د افغانستان د خپلواکۍ له بېرته ترلاسه کولو وروسته د خپلواکۍ ورځې په نوم ونومول شوه. له هغې راهیسې، افغانان هر کال د زمري ۲۸مه د هېواد د خپلواکۍ د بېرته ترلاسه کولو د کلیزې په توګه په هېواد دننه او بهر په بېلابېلو مراسمو او پروګرامونو سره نمانځي. د زمري ۲۸مه د افغانانو لپاره د خپلواکۍ، ملي یووالي او تاریخي ویاړ له مهمو ورځو څخه ګڼل کېږي.",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/1TVNewsAF/status/2089945182716231731#m",
-        "timestamp": "2026-08-19T05:28:11.135317+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@1TVNewsAF",
-        "content": "افغانستان د دوامدارې پراختیا لپاره اوږدمهاله پلانونه پلي کوي په نوي ډیلي کې د افغانستان شارژدافیر نوراحمد نور وایي، افغانستان د اقتصادي ودې او دوامدارې پراختیا لپاره د ملي پروګرامونو او اوږدمهالو پلانونو پر پلي کولو تمرکز کړی دی. د نوموړي په هند کې د اسد ۲۴ مې په مناسبت غونډه کې، د انرژۍ، روغتیا، ښاري پراختیا او بنسټیزو تاسیساتو په برخو کې د پروژو ترڅنګ، د افغانۍ د ارزښت د ثبات لپاره هم هڅې روانې دي. همدارنګه، د خصوصي سکټور ملاتړ، د کورنیو تولیداتو زیاتول، د سوداګرۍ اسانتیاوې او د کانونو په برخه کې د پانګونې پراختیا د اقتصادي فعالیتونو او کاري فرصتونو د زیاتېدو لپاره مهم بلل شوي دي. په ورته وخت کې، په اداري اصلاحاتو، د عامه خدمتونو د اسانتیا، د فساد پر وړاندې د مبارزې، د قانون د حاکمیت پیاوړتیا او د نشه‌يي توکو د کښت او قاچاق د مخنیوي په برخو کې هم د اقداماتو یادونه شوې ده. د افغانستان اسلامي امارت وايي، د هېواد جغرافیه باید د سیالیو پر ځای د سیمه‌ییزې همکارۍ، سوداګرۍ او اقتصادي نښلونې لپاره وکارول شي. Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/1TVNewsAF/status/2089944857632489777#m",
-        "timestamp": "2026-08-19T05:28:11.135338+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@FrontierMM",
-        "content": "AFP | Severe monsoon flooding has swamped villages and paddy fields in central Myanmar, forcing people out of their homes including those already displaced by war, an Agence France-Presse reporter and the UN said. #WhatsHappeningInMyanmar Read here: frontiermyanmar.net/en/monso…",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/FrontierMM/status/2089196445153005605#m",
-        "timestamp": "2026-08-19T05:28:11.135415+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@PSMnewsmv",
-        "content": "psmnews.mv/186182",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/psmnewsmv/status/2089944204747088054#m",
-        "timestamp": "2026-08-19T05:28:11.135458+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@PSMnewsmv",
-        "content": "The Cabinet has decided to expand the national campaign to raise awareness about the dangers of tobacco and nicotine, with the participation of youth associations across the islands and organisations involved in sports. psmnews.mv/en/186232",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/psmnewsmv/status/2089943867541893496#m",
-        "timestamp": "2026-08-19T05:28:11.135467+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@PSMnewsmv",
-        "content": "މިދިޔަ އާދީއްތަ ދުވަހު ބޭއްވި ވަޒީރުންގެ މަޖިލީހުގައި ސަރުކާރުގެ އެކި މަސައްކަތްތަކާއި ޤައުމުގައި ހުރި އިޖުތިމާޢީ އެކި ކަންކަމާ ގުޅޭގޮތުން މުހިންމު ނިންމެވުންތަކެއް ވަނީ ނިންމަވާފައި psmnews.mv/186231",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/psmnewsmv/status/2089941651368144941#m",
-        "timestamp": "2026-08-19T05:28:11.135478+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@OpenSource_News",
-        "content": "The End of OpenSource-News.com: Hi all, With great regret I have to tell… goo.gl/fb/RPavd #OpenSource #news",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/opensource_news/status/160757509689327617#m",
-        "timestamp": "2026-08-19T05:28:11.135778+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@forensicgeek",
-        "content": "baidu.com/link?url=LwJxVfGRD… @shreyankjm @advaitj @JHFutter @LeeStrobl @xoppel @littlemac042 @JoshuaNadeau33 @vivek_malik @CVC_Consulting @LaconicWolf",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/ForensicGeek/status/1018825960412491777#m",
-        "timestamp": "2026-08-19T05:04:46.504859+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@kamilkazani",
-        "content": "Had offers from the Central European University, for which I had a very specific plan, and Peking, for which I did not. Decided that Peking is more fun",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/kamilkazani/status/2089707634639118405#m",
-        "timestamp": "2026-08-19T05:04:46.505245+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@KyivIndependent",
-        "content": "⚡️Ukrainian drones reportedly strike Russia's Tula, Nizhny Novgorod oblasts. Ukrainian drones targeted Russia's Tula and Nizhny Novgorod oblasts overnight on Aug. 19, monitoring channels reported. kyivindependent.com/ukrainia…",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/KyivIndependent/status/2089937719115776065#m",
-        "timestamp": "2026-08-19T05:04:46.505300+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@WIONews",
-        "content": "Did Meta ‘hook’ children to Facebook, Instagram for profit? 29 US states take tech giant to trial READ: wionews.com/world/did-meta-h… wionews.com/world/did-meta-h…",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/WIONews/status/2089939750572695910#m",
-        "timestamp": "2026-08-19T05:04:46.505346+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@WIONews",
-        "content": "#WorldBusinessWatch | China’s consumer economy is showing a surprising divide. While national domestic demand remains weak, some of the country’s wealthiest counties are seeing consumption levels that rival and, in some cases, exceed China’s biggest cities @kanishka9996 has more Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/WIONews/status/2089939283163652327#m",
-        "timestamp": "2026-08-19T05:04:46.505369+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@WIONews",
-        "content": "#WorldBusinessWatch | What if sports betting is no longer just entertainment for some young Americans, but part of their financial plan? The latest survey finds a significant share of Gen Z investors are moving money away from traditional investing and towards sports betting, with some even viewing bets as a long-term strategy @kanishka9996 has more Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/WIONews/status/2089938870188302381#m",
-        "timestamp": "2026-08-19T05:04:46.505393+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@CaucasusWar",
-        "content": "BREAKING: President Trump says he has paused the 50% tariffs that were supposed to take effect tomorrow morning for a three day period. President Trump says the US and Canada \"have a deal.\"",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/KobeissiLetter/status/2089899614660903087#m",
-        "timestamp": "2026-08-19T05:04:46.505443+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@MSF",
-        "content": "In eastern Democratic Republic of Congo, the Ebola disease outbreak is affecting communities who already face overlapping health and humanitarian challenges. 📢 “It is vital that all emergencies be addressed simultaneously.” msf.org/other-health-emergen…",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/MSF/status/2088998311256543416#m",
-        "timestamp": "2026-08-19T05:04:46.505790+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@DefenceU",
-        "content": "“Although the world is full of suffering, it is also full of the overcoming of it.” Helen Keller The combat losses of the enemy from February 24, 2022 to August 19, 2026.",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/DefenceU/status/2089939965870280724#m",
-        "timestamp": "2026-08-19T05:04:46.505853+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@IsraeliAirForce",
-        "content": "Check this video out -- Pakistani national song youtube.com/watch?v=H6u_V8xQ… via @youtube",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/IsraeliAirForce/status/44986023163338753#m",
-        "timestamp": "2026-08-19T05:04:46.505925+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@DARPA",
-        "content": "Lift Challenge Program Manager Phillip “Donna” Smith sits down with our @FliteTest partners to discuss the competition, its 4:1 payload-to-weight ratio goal, and the event's mission to drive aviation innovation.",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/DARPA/status/2087977617165066338#m",
-        "timestamp": "2026-08-19T05:04:46.506011+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@WarOnTheRocks",
-        "content": "A drone that costs less than a new pickup truck can disable a desalination plant serving a million people. warontherocks.com/cheap-dron…",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/WarOnTheRocks/status/2089936654567911504#m",
-        "timestamp": "2026-08-19T05:04:46.506037+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@ChinaDaily",
-        "content": "Macao residents and Hong Kong permanent residents can now use a single document — the Mainland Travel Permit for Hong Kong and Macao Residents (including non-Chinese citizens) — to complete automated immigration clearance when both departing from and arriving at three ports linking Guangdong province and the Macao Special Administrative Region. #GBA bit.ly/4g6ybmZ",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/ChinaDaily/status/2089940429844430980#m",
-        "timestamp": "2026-08-19T05:04:46.506205+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@XHNews",
-        "content": "With over 10,000 solar-powered lights, rice terraces shimmer under the starlit sky in SW China's Guangxi Province. #ChinaTravel #NightViews Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/XHNews/status/2089938903461756954#m",
-        "timestamp": "2026-08-19T05:04:46.506233+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@XHNews",
-        "content": "A giant canopy with Chinese aesthetics adds artistic charm to Beijing's historic Qianmen Street. Layers of colorful fabric evoke the mountains and rivers of a renowned 12th-century Chinese landscape painting. #China #Beijing #ChineseAesthetics #Qianmen #ChinaTravel #DiscoverChina #TravelChina Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/XHNews/status/2089938728546693312#m",
-        "timestamp": "2026-08-19T05:04:46.506251+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@CGTNOfficial",
-        "content": "South Korea's military said on Wednesday that its ongoing joint drills with the United States would conclude on Friday, about a week earlier than originally scheduled. The significant reduction of the drills came after US President Donald Trump said on social media on Sunday that he had instructed Defense Secretary Pete Hegseth to \"substantially reduce\" the scale of joint military exercises with South Korea. More: news.cgtn.com/news/2026-08-1…",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/CGTNOfficial/status/2089932871557685750#m",
-        "timestamp": "2026-08-19T05:04:46.506275+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@PressTV",
-        "content": "Iran banned two French diplomats from entering the country due to actions they took in violation of international law. Follow: t.me/presstv Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/highlightsnews1/status/2089936686037741587#m",
-        "timestamp": "2026-08-19T05:04:46.506306+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@PressTV",
-        "content": "August 19, 1953, marks the day of a coup in Iran, orchestrated by the US and UK, that led to the overthrow of then–PM Mohammad Mossadegh. The plot to oust the Iranian premier was retaliation by the CIA and Britain for Mossadegh’s nationalization of Iran’s oil industry.",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/PressTV/status/2089933010950934644#m",
-        "timestamp": "2026-08-19T05:04:46.506322+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@RT_com",
-        "content": "Wife of hedge-fund mogul John Overdeck turns down $735M divorce offer, seeks mind-boggling $6.2 BILLION— NYP Just a wee bit more",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/RT_Visual_on_X/status/2089940217809563741#m",
-        "timestamp": "2026-08-19T05:04:46.506344+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@RT_com",
-        "content": "Fedorov may challenge Zelensky — Putin's envoy Dmitriev RT (@RT_com) 'Democracy cannot be held hostage by Russia' — ex Ukrainian Defense Minister Fedorov calls for restoring ELECTIONS Zelensky's mandate ran out on 20 May 2024 but Russia is to blame? Video — http://nitter.perennialte.ch/RT_com/status/2089880395571491271#m",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/RT_com/status/2089927067890548811#m",
-        "timestamp": "2026-08-19T05:04:46.506359+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@RT_com",
-        "content": "'99% of people don’t know what REALLY happened' — Novak Djokovic EXPOSES treatment at the hands of Australian govt due to COVID vaccine stance Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/RT_Visual_on_X/status/2089926585260364009#m",
-        "timestamp": "2026-08-19T05:04:46.506383+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@threatpost",
-        "content": "Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool. threatpost.com/watering-hole…",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/threatpost/status/1564991469705990146#m",
-        "timestamp": "2026-08-19T05:04:46.506422+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@AndersonCooper",
-        "content": "This is remarkable, terrifying, beautiful and well worth watching. POST-SCARCITY BLUES | Found Footage from the Future youtu.be/q_t3h2AZ0KY?feature… via @YouTube",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/andersoncooper/status/1945904260052295930#m",
-        "timestamp": "2026-08-19T05:04:46.506493+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@FT",
-        "content": "Travel eSIM boom threatens mobile industry’s roaming cash cow ft.trib.al/0nLQrMd",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/FT/status/2089936099573461138#m",
-        "timestamp": "2026-08-19T05:04:46.506545+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@WSJ",
-        "content": "The powerful tech companies behind the AI infrastructure build-out are putting on a full-court press to solve a public relations crisis that has been derailing projects and scaring off political allies fearful of getting caught up in the blast radius. on.wsj.com/468PWMB",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/WSJ/status/2089938525789523991#m",
-        "timestamp": "2026-08-19T05:04:46.506562+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@WSJ",
-        "content": "Here is an early look at the front page of The Wall Street Journal on.wsj.com/4cMcBC0",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/WSJ/status/2089932936665534838#m",
-        "timestamp": "2026-08-19T05:04:46.506578+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@Reuters",
-        "content": "Pennsylvania governor signs order imposing new rules to set up AI data centers in state reut.rs/4g7z9iP reut.rs/4g7z9iP",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/Reuters/status/2089937925169446917#m",
-        "timestamp": "2026-08-19T05:04:46.506620+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@Reuters",
-        "content": "A weaker Swiss franc could be an unexpected consequence of recent rare US-Japanese intervention to prop up the yen, bringing relief to companies and policymakers in Switzerland who have grappled with the strength of their local currency for years reut.rs/4x80ojp",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/Reuters/status/2089936676713828355#m",
-        "timestamp": "2026-08-19T05:04:46.506642+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@Reuters",
-        "content": "Human-caused climate change was the main driver of recent record-breaking sea temperatures around Europe, scientists said, warning of severe consequences for marine ecosystems and coastal communities reut.rs/4qmptEA",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/Reuters/status/2089935416497467468#m",
-        "timestamp": "2026-08-19T05:04:46.506658+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@AFP",
-        "content": "Mystery elephant deaths raise alarm in Kenya. A young male elephant lies on the ground, kicking up the dust in Kenya’s Amboseli National Park, unable to stand. Since AFP visited the park a week ago, 11-year-old Genghis Khan has died, succumbing to a mystery ailment that has killed at least 20 elephants in Kenya since June Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/AFP/status/2089939248342524102#m",
-        "timestamp": "2026-08-19T05:04:46.506678+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@AFP",
-        "content": "Trump pauses 50% tariffs on Canadian goods for three days, says US and Canada “have a DEAL”. Carney says both sides have made progress towards a trade deal but more work is needed u.afp.com/SHjq",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/AFP/status/2089933044593426853#m",
-        "timestamp": "2026-08-19T05:04:46.506699+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@SkyNews",
-        "content": "Convicted Romanian murderer carried out almost identical killing after moving to UK news.sky.com/story/convicted…",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/SkyNews/status/2089849541709136008#m",
-        "timestamp": "2026-08-19T05:04:46.506722+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@thehill",
-        "content": "Wyoming secretary of state wins GOP primary for open House seat thehill.com/homenews/campaig…",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/thehill/status/2089934386951078164#m",
-        "timestamp": "2026-08-19T05:04:46.506762+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@IndiaToday",
-        "content": "A missed EMI can bring far more than a demand for payment. For some borrowers, it means hundreds of calls, threats, abusive language and recovery agents turning up at their homes and workplaces. We look at how loan recovery can cross the line into harassment. Read to know more: intdy.in/oapbqr #EMI #loan #LoanRecovery @journo_kd",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/IndiaToday/status/2089940287770743003#m",
-        "timestamp": "2026-08-19T05:04:46.506786+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@IndiaToday",
-        "content": "66 never looked this busy: #Mohanlal's 7-film slate is stacked with variety | By @JananiKumar92",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/IndiaToday/status/2089939972568777011#m",
-        "timestamp": "2026-08-19T05:04:46.506805+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@IndiaToday",
-        "content": "A major food safety lapse has been reported in Arwal, Bihar, after worms were allegedly found in the soybean curry supplied as part of the mid-day meal to 75 schools in the Sadar block. School authorities spotted the worms while inspecting the food before serving it to students. Headteachers subsequently stopped the meal from being served, leaving several children without their mid-day meal. Headteachers of schools in Umairabad, Ahiyapur and Sakri Ibrahimpur** submitted complaints to the district mid-day meal authorities. District Education Officer Asgar Ali said the matter was being investigated and that action would be taken against the concerned NGO if negligence is established. #Arwal #Bihar #MidDayMeal #SchoolMeals #FoodSafety #SchoolChildren #BiharSchools Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/IndiaToday/status/2089939343142183298#m",
-        "timestamp": "2026-08-19T05:04:46.506818+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@ANI",
-        "content": "#WATCH | Kolkata: West Bengal Minister Agnimitra Paul arrived at the site where fire broke out and received a briefing from senior police officers present at the spot. She reviewed the situation and assessed the ongoing response and arrangements at the site. Video ANI (@ANI) #WATCH | Kolkata | An FSL team arrives at the hotel fire accident site on Mirza Ghalib Street. Nine people, including a child, lost their lives in the fire accident that occurred in the early morning hours today. Video — http://nitter.perennialte.ch/ANI/status/2089927958559629699#m",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/ANI/status/2089939886996664594#m",
-        "timestamp": "2026-08-19T05:04:46.506850+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@ANI",
-        "content": "#WATCH | Srinagar | J&amp;K CM Omar Abdullah says, \"Waterlogging in parts of Srinagar is a legacy issue. It's not the creation of the last two years, not even the last five years. Neither you nor I know who gave permission to build colonies without providing drainage. Now, retrospectively, we are creating drainage in these colonies. We have identified the problematic areas. When we receive warnings from the Met Department, we arrange additional pumpage.\" Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/ANI/status/2089939407562555422#m",
-        "timestamp": "2026-08-19T05:04:46.506881+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@ANI",
-        "content": "#WATCH | Delhi: On Satyendar Jain’s arrest in the Delhi Jal Board tender scam, AAP Chief National Spokesperson Priyanka Kakkar says, \"Satyendar Jain is the co-in-charge for Punjab, and elections are approaching; the BJP has resumed its usual pattern. People understand these tactics now, and absolutely no one believes the false cases being filed against Satyendar Jain. They had previously jailed him in a false case, and the alleged scam now being cited is said to have occurred while he was already in jail… The BJP has jailed many of our leaders in false cases before, only for us to receive a clean chit from the courts; the courts even discharged us, stating the cases weren't even fit for trial. The same will happen this time…the youth are angry with them today. Will the youth align with them given these actions? They engaged in the theft of donations and played with people's faith. Will people forget these things? That is not going to happen…if the ACB and the BJP genuinely want to take action against corruption, they should go to Rekha Gupta and arrest her and her entire cabinet…the BJP attempts to malign Arvind Kejriwal’s politics because they cannot counter his policies; they fear that if he continues to deliver this kind of governance, the BJP will lose its relevance.” Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/ANI/status/2089938251138347403#m",
-        "timestamp": "2026-08-19T05:04:46.506904+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@PTI_News",
-        "content": "News Alert ! Annual coverage under CM Health Insurance hiked from Rs 5 lakh to Rs 25 lakh: TN CM Vijay in Assembly",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/PTI_News/status/2089940326547157101#m",
-        "timestamp": "2026-08-19T05:04:46.506946+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@PTI_News",
-        "content": "VIDEO | Jammu: Traffic jam on the Jammu-Srinagar National Highway in the Nagrota area due to a mudslide triggered by heavy rain. (Full video available on PTI Videos - ptivideos.com) Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/PTI_News/status/2089940146636607846#m",
-        "timestamp": "2026-08-19T05:04:46.506957+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@PTI_News",
-        "content": "Ministry of Finance (@FinMinIndia) posts on X, \"Union Minister for Finance & Corporate Affairs Smt. @nsitharaman has today embarked on an official visit to Singapore with a ministerial delegation to participate in the 4th India–Singapore Ministerial Roundtable (ISMR) to be held on 19–20 August 2026. The FM is leading a delegation that comprises Dr. @DrSJaishankar, Minister of External Affairs; Shri @PiyushGoyal, Union Minister for Commerce & Industry; and Shri @JitinPrasada, Union Minister of State for Electronics & IT and Commerce & Industry. Established in 2022, the ISMR is a key high-level economic mechanism between India and Singapore. It provides a platform to review progress and explore new areas of collaboration across six pillars: advanced manufacturing, connectivity, digitalisation, healthcare and medicine, skills development, and sustainability. The 4th ISMR will build on the progress made under these pillars and explore new opportunities to further strengthen the India–Singapore economic partnership.\"",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/PTI_News/status/2089939877819519351#m",
-        "timestamp": "2026-08-19T05:04:46.506973+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@ndtv",
-        "content": "#BREAKING | At least 9 Dead In Massive Fire At Hotel In Kolkata, AC Blast Suspected NDTV's @SreyashiDey reports Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/ndtv/status/2089940216043962795#m",
-        "timestamp": "2026-08-19T05:04:46.507009+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@ndtv",
-        "content": "#BREAKNG | Tamil Nadu Chief Minister Vijay hikes milk prices in the state by Rs 3 per litre NDTV's @jsamdaniel reports Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/ndtv/status/2089940031259783279#m",
-        "timestamp": "2026-08-19T05:04:46.507027+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@ndtv",
-        "content": "Nepal’s foreign policy is evolving in a rapidly changing world. At Anviksha, NDTV World brings together Shisir Khanal, Minister of Foreign Affairs, Nepal, for a fireside chat on “Nepal’s Foreign Policy in a Changing World.” A conversation on geopolitics, regional partnerships and Nepal’s place in a changing global order. Kathmandu | 27 August 2026 #NDTVWorld #NDTVAnviksha #IndiaNepalDialogue #IdeasAcrossBorders @ndtvworld @ndtvindia @shisir",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/ndtv/status/2089936932130418966#m",
-        "timestamp": "2026-08-19T05:04:46.507043+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@ZeeNews",
-        "content": "विशाखापत्तनम में RSS की आज अहम बैठक, RSS की 3 दिवसीय बैठक #RSS #Meeting | @arzoosai @theanupamajha Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/ZeeNews/status/2089940453043155444#m",
-        "timestamp": "2026-08-19T05:04:46.507070+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@ZeeNews",
-        "content": "पाकिस्तान से इस वक्त की बड़ी खबर, जेल से शौकत खानम अस्पताल शिफ्ट होंगे इमरान खान #IranKhan #Pakistan | @AnjeetLive @theanupamajha Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/ZeeNews/status/2089937332699119831#m",
-        "timestamp": "2026-08-19T05:04:46.507090+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@ZeeNews",
-        "content": "झारखंड से इस वक्त की बड़ी खबर, सरकार ने जारी की परीक्षाओं की सूची, 44 भर्ती परीक्षाओं की सूची जारी #JharkhandNews #Exams | @AnjeetLive @theanupamajha Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/ZeeNews/status/2089936998882758907#m",
-        "timestamp": "2026-08-19T05:04:46.507109+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@TimesNow",
-        "content": "'50%+ Congress tickets should go to Gen Z': Ashok Gehlot's pitch ahead of Rajasthan's local body elections. We will witness a major change in the country's political landscape: SP's IP Singh shares his views with @anchoramitaw Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/TimesNow/status/2089940119406923829#m",
-        "timestamp": "2026-08-19T05:04:46.507130+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@TimesNow",
-        "content": "From the showpiece Ganga Expressway to our smart cities, videos of infrastructure crumbling this monsoon have gone viral. Don’t citizens deserve better? @madhavgk explains. Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/TimesNow/status/2089939373106376734#m",
-        "timestamp": "2026-08-19T05:04:46.507147+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@TimesNow",
-        "content": "'50%+ Congress tickets should go to Gen Z': Ashok Gehlot's pitch ahead of Rajasthan's local body elections; BJP hits back. @sabyasachi_13 joins @anchoramitaw with details. Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/TimesNow/status/2089938133529800873#m",
-        "timestamp": "2026-08-19T05:04:46.507164+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@haaretzcom",
-        "content": "Israel issues tender to build 1,200 housing units in contested West Bank E1 area haaretz.com/west-bank/2026-0…",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/haaretzcom/status/2089936667993936051#m",
-        "timestamp": "2026-08-19T05:04:46.507190+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@UkrInform",
-        "content": "💼 Міноборони проводить тестування оформлення відстрочки для вчителів у Резерв+ ukrinform.ua/rubric-society/…",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/UKRINFORM/status/2089940426727833608#m",
-        "timestamp": "2026-08-19T05:04:46.507273+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@UkrInform",
-        "content": "⭐️ Костюк обіграла чемпіонку US Open і вийшла до 1/8 фіналу турніру WTA 1000 у Цинциннаті ukrinform.ua/rubric-sports/4…",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/UKRINFORM/status/2089936646125039716#m",
-        "timestamp": "2026-08-19T05:04:46.507290+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@UkrInform",
-        "content": "⚠️ В Україні залишаються неідентифікованими майже 17 тисяч тіл - поліція ukrinform.ua/rubric-society/…",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/UKRINFORM/status/2089932873683890644#m",
-        "timestamp": "2026-08-19T05:04:46.507305+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@ABSCBNNews",
-        "content": "[As of 12:15 a.m., Wednesday] Nasira ang appliances ng ilang residente ng Medicion II-F, Imus, Cavite, kung saan umabot sa dalawang talampakan ang baha dahil sa malakas na pag-ulan. | via @KaxandraSalonga Video",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/ABSCBNNews/status/2089940472383119496#m",
-        "timestamp": "2026-08-19T05:04:46.507333+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@ABSCBNNews",
-        "content": "\"Nagkakaroon ng misconception, misinterpretation, misunderstanding.\" Palace Press Officer Claire Castro brings up the heckling of students against President Ferdinand Marcos Jr. during his visit to Davao City in July, as she explains her controversial statement about some teachers being responsible for the conduct of youth. \"Hindi katanggap-tanggap para mga kabataan ang magsalita nang ganito,\" she says about the heckling incident. She also presents a screenshot of a teacher allegedly teaching students insulting words about the president. She adds that the teacher is now facing an administrative complaint, citing a DepEd update. Castro points out that her statement about teachers was \"misinterpreted, misconceived, and misunderstood,\" insisting she never blamed teachers for school violence. \"Sa mga guro, hindi ko kayo sinsisi. Ito ay pagpapaalala.\"",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/ABSCBNNews/status/2089939251328950704#m",
-        "timestamp": "2026-08-19T05:04:46.507348+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@ABSCBNNews",
-        "content": "Niyanig ng magnitude 5.7 na #lindol ang katubigan malapit sa Itbayat, Batanes 12:22 p.m., Miyerkules, Agosto 19, 2026, ayon sa Phivolcs. Inaasahan ang aftershocks. #EarthquakePH#LindolPH",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/ABSCBNNews/status/2089938008732786776#m",
-        "timestamp": "2026-08-19T05:04:46.507373+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@reutersafrica",
-        "content": "The U.S. dollar drifted near multi-month lows against major peers on Wednesday as Treasury yields eased from recent highs, with investors awaiting minutes of the Federal Reserve's latest policy meeting for clues on the path of interest rates. reuters.com/world/africa/dol…",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/ReutersAfrica/status/2089935433840919038#m",
-        "timestamp": "2026-08-19T05:04:46.507413+00:00",
-        "human_time": "0m ago"
-    },
-    {
-        "source": "X/@reutersafrica",
-        "content": "A record number of humanitarian workers were attacked last year, driven partly by increased use of armed drones, the United Nations said on Wednesday, calling the trend \"appalling\". reuters.com/world/africa/att…",
-        "metrics": {
-            "likes": "0",
-            "comments": "0",
-            "retweets": "0"
-        },
-        "link": "http://nitter.perennialte.ch/ReutersAfrica/status/2089932978998677863#m",
-        "timestamp": "2026-08-19T05:04:46.507432+00:00",
         "human_time": "0m ago"
     }
 ]
